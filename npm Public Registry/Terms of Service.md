@@ -27,6 +27,32 @@ Table of contents
 * [Disputes](#disputes)
 * [Notices and Questions](#notices-and-questions)
 
+Table of contents
+
+* [Important Terms](#important-terms)
+* [Other Terms](#other-terms)
+* [Legal Agreement](#legal-agreement)
+* [Changes](#changes)
+* [npm Policies](#npm-policies)
+* [Use of npm Open Source](#use-of-npm-open-source)
+* [Conditions](#conditions)
+* [Acceptable Use](#acceptable-use)
+* [Acceptable Content](#acceptable-content)
+* [Commercial Content](#commercial-content)
+* [Enforcement of Acceptable Use](#enforcement-of-acceptable-use)
+* [Your Account](#your-account)
+* [Your Content](#your-content)
+* [Feedback](#feedback)
+* [Indemnity](#indemnity)
+* [Disclaimers](#disclaimers)
+    * [Third-Party Services](#third-party-services)
+* [Limits on Liability](#limits-on-liability)
+* [Termination](#termination)
+* [Payment Terms](#payment-terms)
+* [General Terms](#general-terms)
+* [Disputes](#disputes)
+* [Notices and Questions](#notices-and-questions)
+
 These npm Open Source terms of use (these _Terms_) govern access to and use of [https://www.npmjs.com](https://www.npmjs.com/) (the _Website_) as well as the "npm Public Registry" at [https://registry.npmjs.org](https://registry.npmjs.org/) (the _Public Registry_). npm, Inc. (_npm_) operates each of those services. These terms refer to all of them together as _npm Open Source_.
 
 npm last updated these npm Open Source Terms on March 10, 2022. You can review prior versions at [https://github.com/npm/documentation/blob/main/content/policies/open-source-terms.mdx](https://github.com/npm/documentation/blob/main/content/policies/open-source-terms.mdx).
