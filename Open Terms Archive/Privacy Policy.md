@@ -1,14 +1,14 @@
 Privacy Policy
 ==============
 
-Last updated: August 19, 2021
+Last updated: September 26, 2023
 
-This privacy policy explains how, why and under what conditions the Open Terms Archive (OTA) site collects personal information and how it is used. Our privacy policy will change over time.
+This privacy policy explains how, why and under what conditions the Open Terms Archive (OTA) site collects personal information and how it is used. Our privacy policy will change over time. And of course, we also record the changes of [our own documents](https://github.com/OpenTermsArchive/demo-versions/tree/main/Open%20Terms%20Archive) 😉
 
 Personal data processed
 -----------------------
 
-When you subscribe to the document change tracking service, we collect your email address. This allows us to notify you when a modification is detected on the document you have selected. This email is stored in a Sendinblue list (https://www.sendinblue.com).
+When you subscribe to the document change tracking service, we collect your email address. This allows us to notify you when a modification is detected on the document you have selected. This email is stored in a Brevo list (https://brevo.com).
 
 In accordance with Article 17 of the GDPR, everyone has the right to have their data erased. Users of this service whose personal data has been collected may request the deletion of such data by writing to the dedicated address: contact@opentermsarchive.org
 
