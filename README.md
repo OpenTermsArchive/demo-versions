@@ -1,35 +1,29 @@
 # Open Terms Archive - demo versions
 
-This repository is to be considered as a database only.
-You can find the documentation by following the link in the “About” section of this page.
+## Context
 
-## Use RSS feed
+[Open Terms Archive](https://opentermsarchive.org) is free and open source software that publicly records every version of the terms of digital services in different languages and countries several times a day, increasing their readability and highlighting their changes to enable democratic oversight. Check out [opentermsarchive.org for more details](https://opentermsarchive.org).
 
-You can receive notification for a specific service or document by subscribing to RSS feeds.
+In the context of Open Terms Archive:
+- a **version** is a record of a service's terms captured at a particular point in time. These versions are derived from online documents containing the terms. The process involves extracting and filtering relevant content from these documents, allowing the system to identify any changes that may have occurred in the terms and to record a new version if any changes are detected.
+Each version represents the state of the terms at the time of its capture, and they are stored to provide a historical record of how the terms have evolved over time.
+- a **collection** refers to a grouping of terms tracked by Open Terms Archive. Each collection is characterised by a scope across dimensions such as language, jurisdiction and industry.
 
-> An RSS feed is a type of web page that contains information about the latest content published by a website, such as the date of publication and the address where you can view it. When this resource is updated, a feed reader app automatically notifies you and you can see the update.
+Information about this "demo" collection, such as scope, maintener, time frame, … is detailed in [its definition repository](https://github.com/OpenTermsArchive/demo-declarations).
 
-To find out the address of the RSS feed you want to subscribe to:
+**This repository has to be considered as the database of versions for this collection.**
 
-1. [Navigate](#exploring-the-versions-history) to the page with the history of changes you are interested in. _In the OpenTermsArchive example above, this would be [this page](https://github.com/OpenTermsArchive/demo-versions/commits/main/OpenTermsArchive/Privacy%20Policy.md)._
-2. Copy the address of that page from your browser’s address bar. _In the OpenTermsArchive example, this would be `https://github.com/OpenTermsArchive/demo-versions/commits/main/OpenTermsArchive/Privacy%20Policy.md`._
-3. Append `.atom` at the end of this address. _In the OpenTermsArchive example, this would become `https://github.com/OpenTermsArchive/demo-versions/commits/main/OpenTermsArchive/Privacy%20Policy.md.atom`._
-4. Subscribe your RSS feed reader to the resulting address.
+## Usage
 
-#### Recap of available RSS feeds
+🔍 [Browse through versions](https://docs.opentermsarchive.org/how-to/navigate-history/) interactively on this user interface.
 
-| Updated for                         | URL                                                                                                                                                                                            |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| all services and documents          | `https://github.com/OpenTermsArchive/demo-versions/commits.atom`                                                                                                                            |
-| all the documents of a service      | Replace `$serviceId` with the service ID:<br>`https://github.com/OpenTermsArchive/demo-versions/commits/main/$serviceId.atom.`                                                            |
-| One specific document               | Replace `$serviceId` with the service ID and `$documentType` with the document type:<br>`https://github.com/OpenTermsArchive/demo-versions/commits/main/$serviceId/$documentType.md.atom` |
+🔔 [Subscribe to terms changes](https://docs.opentermsarchive.org/how-to/navigate-history/) to be notified.
 
-For example:
+📥 [Download versions as dataset](https://github.com/OpenTermsArchive/demo-versions/releases) to explore data locally on your filesystem.
 
-- To receive all updates of `Facebook` documents, the URL is `https://github.com/OpenTermsArchive/demo-versions/commits/main/Facebook.atom`.
-- To receive all updates of the `Privacy Policy` from `Google`, the URL is `https://github.com/OpenTermsArchive/demo-versions/commits/main/Google/Privacy%20Policy.md.atom`.
+If a specific service or specific terms for a service is missing from this collection, it may be available in others [public Open Terms Archive collections](https://github.com/OpenTermsArchive?q=versions&type=all&language=&sort=), and if not, [it can be added](https://docs.opentermsarchive.org/contributing-terms).
 
-
+- - -
 # License
 
 Data in this repository is distributed under an ODC-BY 1.0 license. That means you are free to share (to copy, distribute and use the database), to create (to produce works from the database), to adapt (to modify, transform and build upon the database) as long as you attribute the resulting works to _Open Terms Archive_.
