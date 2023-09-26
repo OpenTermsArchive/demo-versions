@@ -28,6 +28,33 @@ Table of contents
 * [Who can I contact about npm and my privacy?](#who-can-i-contact-about-npm-and-my-privacy)
 * [How can I find out about changes?](#how-can-i-find-out-about-changes)
 
+Table of contents
+
+* [What's most important?](#whats-most-important)
+* [How does npm collect data about me?](#how-does-npm-collect-data-about-me)
+* [What data does npm collect about me, and why?](#what-data-does-npm-collect-about-me-and-why)
+    * [npm collects data about how you use npm software and registries](#npm-collects-data-about-how-you-use-npm-software-and-registries)
+    * [npm collects data about how you use the website.](#npm-collects-data-about-how-you-use-the-website)
+    * [npm collects account data](#npm-collects-account-data)
+    * [npm collects package data](#npm-collects-package-data)
+    * [npm collects payment card data](#npm-collects-payment-card-data)
+    * [npm collects data about correspondence](#npm-collects-data-about-correspondence)
+    * [npm collects data about use of npm.community](#npm-collects-data-about-use-of-npmcommunity)
+* [Does npm share data about me with others?](#does-npm-share-data-about-me-with-others)
+    * [npm uses cookies](#npm-uses-cookies)
+* [How can I make choices about data collection?](#how-can-i-make-choices-about-data-collection)
+* [Where does npm keep data about me?](#where-does-npm-keep-data-about-me)
+* [How does npm handle data under the EU General Data Protection Regulation?](#how-does-npm-handle-data-under-the-eu-general-data-protection-regulation)
+* [How does npm handle data under the California Consumer Privacy Act?](#how-does-npm-handle-data-under-the-california-consumer-privacy-act)
+* [How can I see what data is publicly available about me?](#how-can-i-see-what-data-is-publicly-available-about-me)
+* [How can I change data about me?](#how-can-i-change-data-about-me)
+* [What is npm's policy on unpublishing packages?](#what-is-npms-policy-on-unpublishing-packages)
+* [How does npm notify others about published data that's erased?](#how-does-npm-notify-others-about-published-data-thats-erased)
+* [What happens if npm merges with or is bought by another company?](#what-happens-if-npm-merges-with-or-is-bought-by-another-company)
+* [What are npm's information practices regarding information belonging to children?](#what-are-npms-information-practices-regarding-information-belonging-to-children)
+* [Who can I contact about npm and my privacy?](#who-can-i-contact-about-npm-and-my-privacy)
+* [How can I find out about changes?](#how-can-i-find-out-about-changes)
+
 This notice describes how [npm, Inc.](https://www.npmjs.com/about), or _npm_ for short, collects and uses data about you.
 
 [](#whats-most-important)[What's most important?](#important)
