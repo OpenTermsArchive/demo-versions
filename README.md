@@ -1,4 +1,4 @@
-# Open Terms Archive - demo versions
+# Demo versions
 
 ## Context
 
