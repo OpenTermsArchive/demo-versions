@@ -1,6 +1,6 @@
-# Versions of terms from the `Demo` collection
+# Versions of terms from the _<!-- here goes your collection name -->Demo<!-- until here -->_ collection
 
-The terms in this collection are tracked by the Open Terms Archive Core Team using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are tracked by <!-- customize to your context -->the Open Terms Archive Core Team<!-- until here --> using [Open Terms Archive](https://opentermsarchive.org).
 
 ## Usage
 
@@ -33,4 +33,4 @@ If not, you may just be the best person to add them by [following the documentat
 
 # License
 
-Data in this repository is distributed under an ODC-BY 1.0 license. That means you are free to share (to copy, distribute and use the database), to create (to produce works from the database), to adapt (to modify, transform and build upon the database) as long as you attribute the resulting works to _Open Terms Archive Core Team and Open Terms Archive contributors_.
+Data in this repository is distributed under an ODC-BY 1.0 license. That means you are free to share (to copy, distribute and use the database), to create (to produce works from the database), to adapt (to modify, transform and build upon the database) as long as you attribute the resulting works to *<!-- customize to your context -->Open Terms Archive Core Team<!-- until here --> and Open Terms Archive contributors*.
