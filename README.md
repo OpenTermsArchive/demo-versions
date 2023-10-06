@@ -1,4 +1,4 @@
-# Versions of terms from the _<!-- here goes your collection name -->Demo<!-- until here -->_ collection
+# Versions of terms from the *<!-- here goes your collection name -->Demo<!-- until here -->* collection
 
 The terms in this collection are tracked by <!-- customize to your context -->the Open Terms Archive Core Team<!-- until here --> using [Open Terms Archive](https://opentermsarchive.org).
 
