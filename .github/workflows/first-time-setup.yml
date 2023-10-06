@@ -40,9 +40,9 @@ jobs:
           REPOSITORY_OWNER=${{ github.repository_owner }}
           REPOSITORY_NAME=${{ github.event.repository.name }}
           COLLECTION_NAME="${REPOSITORY_NAME//-versions}"
-          sed -i "s|# Demo versions|# $COLLECTION_NAME versions|g" README.md &&
-          sed -i "s|https://github.com/OpenTermsArchive/demo-versions/releases|https://github.com/${REPOSITORY_OWNER}/${REPOSITORY_NAME}/releases|g" README.md &&
-          sed -i "s|https://github.com/OpenTermsArchive/demo-declarations|https://github.com/${REPOSITORY_OWNER}/${COLLECTION_NAME}-declarations|g" README.md
+          sed -i "s|<!-- customize to your context -->.*<!-- until here -->|_ _ _ _ _ ✍️|g" README.md &&
+          sed -i "s|<!-- here goes your collection name -->.*<!-- until here -->|$COLLECTION_NAME|g" README.md &&
+          sed -i "s|https://github.com/OpenTermsArchive/demo|https://github.com/${REPOSITORY_OWNER}/${COLLECTION_NAME}|g" README.md
     
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
