@@ -35,7 +35,7 @@ Brevo attaches particular importance to the respect for the privacy of the Users
 
 The data controller for the processing of the personal data referred to herein is Brevo, a simplified joint stock company with a share capital of 387,722 Euros, registered with the Paris Trade and Companies Register under number 498 019 298 and whose registered office is located at 106 boulevard Haussmann, 75008 Paris, France.
 
-Brevo has appointed a Data Protection Officer who can be contacted at the following address: [\[email protected\]](https://www.brevo.com/cdn-cgi/l/email-protection).
+Brevo has appointed a Data Protection Officer who can be contacted at the following address: [dpo@brevo.com](mailto:dpo@brevo.com).
 
 #### Data collected
 
@@ -86,7 +86,7 @@ The Users also have the right to request the limitation of the processing, and t
 
 Where applicable, the User may request the portability of their personal data or, where the legal basis for the processing is consent, withdraw their consent at any time.
 
-The Users may exercise their rights by sending an email to [\[email protected\]](https://www.brevo.com/cdn-cgi/l/email-protection) or a letter to:
+The Users may exercise their rights by sending an email to [dpo@brevo.com](mailto:dpo@brevo.com) or a letter to:
 
 **  
 Sendinblue SAS  — DPO Team  
@@ -95,13 +95,13 @@ Sendinblue SAS  — DPO Team
 
 These requests shall be processed within a maximum period of 30 days.
 
-The Users may also at any time modify the data pertaining to them by logging on to [https://www.brevo.com](https://www.brevo.com/) and clicking on “edit my profile” or by contacting the customer relations department at [\[email protected\]](https://www.brevo.com/cdn-cgi/l/email-protection)
+The Users may also at any time modify the data pertaining to them by logging on to [https://www.brevo.com](https://www.brevo.com/) and clicking on “edit my profile” or by contacting the customer relations department at [support@brevo.com](mailto:support@brevo.com)
 
 The Users may unsubscribe from the Brevo newsletter or marketing emails by following the unsubscribe links in each of these emails.
 
 In the event of a dispute, the Users may file a complaint with the CNIL, for which contact details may be found at [https://www.cnil.fr.](https://www.cnil.fr./)
 
-The Users may access detailed information on the use of their personal data, in particular concerning the purposes of the processing, the legal bases enabling Brevo to process the data, its storage period, its recipients, and, where applicable, its transfer to a country outside the European Union as well as the related compliance guarantees put in place for such transfers. To do so, the User can send their request by email to [\[email protected\]](https://www.brevo.com/legal/privacypolicy/dpo@brevo.com).
+The Users may access detailed information on the use of their personal data, in particular concerning the purposes of the processing, the legal bases enabling Brevo to process the data, its storage period, its recipients, and, where applicable, its transfer to a country outside the European Union as well as the related compliance guarantees put in place for such transfers. To do so, the User can send their request by email to [dpo@brevo.com](https://www.brevo.com/legal/privacypolicy/dpo@brevo.com).
 
 #### Additional terms regarding the use of the Inbox Feature
 
@@ -134,7 +134,7 @@ In addition, access to processing data on behalf of Brevo by the receiving third
 
 Data transmitted over unsecured communication channels is subject to technical measures designed to make such data incomprehensible to any unauthorised person.
 
-Any questions about the security of the Brevo website can be directed to [\[email protected\]](https://www.brevo.com/cdn-cgi/l/email-protection).
+Any questions about the security of the Brevo website can be directed to [support@brevo.com](mailto:support@brevo.com).
 
 ### Modification of the Privacy Policy
 
@@ -144,7 +144,7 @@ The Users shall be notified of any changes made to this policy via our website o
 
 ### Contact
 
-Any questions about Brevo’s Privacy Policy can be directed by email to [\[email protected\]](https://www.brevo.com/cdn-cgi/l/email-protection) or by mail to:
+Any questions about Brevo’s Privacy Policy can be directed by email to [dpo@brevo.com](mailto:dpo@brevo.com) or by mail to:
 
 **Sendinblue SAS – DPO Team**  
 ****106 boulevard Haussmann, 75008 Paris**, France**
@@ -196,7 +196,7 @@ We collect Personal Information from the following sources and use that informat
 
 **Children’s Privacy**
 
-Brevo does not knowingly collect Personal Information from children under 16. However, we cannot control the Personal Information our Customer’s collect. If a Customer chooses to input Personal Information of children under age 16 on the Services, that Customer does so under its own privacy practices, not ours. Brevo is not responsible for a Customer’s failure to comply with any law designed to protect children or any other law governing the Customer’s use of our Services. Please contact the Customer directly if you have questions about their privacy practices. As part of our commitment to your privacy, we encourage you to contact us at [\[email protected\]](https://www.brevo.com/cdn-cgi/l/email-protection) if you believe we might have collected any information online from a child under 16, or if you are aware of any unauthorized submission of information to us. Brevo reserves the right to delete any information from our systems if we discover it was improperly collected.
+Brevo does not knowingly collect Personal Information from children under 16. However, we cannot control the Personal Information our Customer’s collect. If a Customer chooses to input Personal Information of children under age 16 on the Services, that Customer does so under its own privacy practices, not ours. Brevo is not responsible for a Customer’s failure to comply with any law designed to protect children or any other law governing the Customer’s use of our Services. Please contact the Customer directly if you have questions about their privacy practices. As part of our commitment to your privacy, we encourage you to contact us at [dpo@brevo.com](mailto:dpo@brevo.com) if you believe we might have collected any information online from a child under 16, or if you are aware of any unauthorized submission of information to us. Brevo reserves the right to delete any information from our systems if we discover it was improperly collected.
 
 **Retention of Personal Information**
 
@@ -242,7 +242,7 @@ Brevo believes you should have the ability to control the Personal Information w
 
 * **Customer Accounts:** Customers can change or delete the Personal Information in their accounts at any time by signing into the Platform and editing information or changing settings. Brevo may offer instructions to guide Customers in making additional changes. A Customer can delete all of their Personal Information on Brevo by closing the account. 
 * **Contact Information:** Customers can change or delete their Contacts’ Personal Information at any time by signing into the Platform and editing information or changing settings. Brevo may offer instructions to guide Customers in making additional changes. If a Contact submits a Consumer Privacy Request directly to Brevo, we will relay the request to the applicable Customer for further processing. 
-* **Email Communications:** If you are a Customer or Site visitor, we may send you marketing emails about the Services. Customers may also receive informational or support emails from us. If you do not wish to receive these emails, you may change your preferences via the links provided in the emails or by sending a request to [\[email protected\]](https://www.brevo.com/cdn-cgi/l/email-protection) to be removed from our email list. Note that if you opt-out of marketing communications, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+* **Email Communications:** If you are a Customer or Site visitor, we may send you marketing emails about the Services. Customers may also receive informational or support emails from us. If you do not wish to receive these emails, you may change your preferences via the links provided in the emails or by sending a request to [dpo@brevo.com](mailto:dpo@brevo.com) to be removed from our email list. Note that if you opt-out of marketing communications, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 * **Texting Consent:** If you provide us with your wireless phone number, you consent to Brevo sending you informational or service text messages. However, we will only send you marketing text messages if you opt-in to receive these notifications from us. For all Brevo text messages, the number of texts you receive will depend on the Services you use and the information you request from us. You can unsubscribe from Brevo text messages by replying STOP or UNSUBSCRIBE to any of these text messages. Messaging and data charges may apply to any text message you receive or send. Please contact your wireless carrier if you have questions about messaging or data charges.
 * **Do Not Track:** Do Not Track signals are signals sent through a browser informing us that you do not want to be tracked. Currently, our systems do not recognize browser “do-not-track” requests. If this changes in the future, we will update this Privacy Notice.
 
@@ -250,7 +250,7 @@ Depending on where you reside, you may have additional privacy rights or be enti
 
 **Consumer Privacy Requests**
 
-If you wish to exercise your privacy rights beyond the methods available through the Platform, or if you want to express concerns, lodge a complaint, or request information, please submit a verifiable Consumer Privacy Request using our online **Consumer Privacy Request** form or by sending an email to [\[email protected\]](https://www.brevo.com/cdn-cgi/l/email-protection).
+If you wish to exercise your privacy rights beyond the methods available through the Platform, or if you want to express concerns, lodge a complaint, or request information, please submit a verifiable Consumer Privacy Request using our online **Consumer Privacy Request** form or by sending an email to [dpo@brevo.com](mailto:dpo@brevo.com).
 
 Note that if you are a Customer’s Contact, then we process your Personal Information as a service provider to the Customer and we cannot fulfill your request directly. In that case, we will relay your request to the appropriate Customer for further processing and fulfillment, provided that we have sufficient information to do so.
 
@@ -301,6 +301,6 @@ We may periodically update this Privacy Notice. If we make any material changes,
 
 ### Contact Brevo
 
-If you have questions about our privacy practices or would like to make a complaint, please contact us at [\[email protected\]](https://www.brevo.com/cdn-cgi/l/email-protection), or by mail at Brevo 1402 Third Avenue, #301, Seattle, WA 98101.
+If you have questions about our privacy practices or would like to make a complaint, please contact us at [dpo@brevo.com](mailto:dpo@brevo.com), or by mail at Brevo 1402 Third Avenue, #301, Seattle, WA 98101.
 
-For UK based data subjects, processors, controllers, and the ICO: The representative for the UK according to Article 27 of the UK GPDR can be reached by email: [\[email protected\]](https://www.brevo.com/cdn-cgi/l/email-protection)
+For UK based data subjects, processors, controllers, and the ICO: The representative for the UK according to Article 27 of the UK GPDR can be reached by email: [dpo@brevo.com](mailto:dpo@brevo.com)
