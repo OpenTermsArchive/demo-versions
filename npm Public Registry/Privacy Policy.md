@@ -1,60 +1,6 @@
 Privacy Questions and Answers
 =============================
 
-Table of contents
-
-* [What's most important?](#whats-most-important)
-* [How does npm collect data about me?](#how-does-npm-collect-data-about-me)
-* [What data does npm collect about me, and why?](#what-data-does-npm-collect-about-me-and-why)
-    * [npm collects data about how you use npm software and registries](#npm-collects-data-about-how-you-use-npm-software-and-registries)
-    * [npm collects data about how you use the website.](#npm-collects-data-about-how-you-use-the-website)
-    * [npm collects account data](#npm-collects-account-data)
-    * [npm collects package data](#npm-collects-package-data)
-    * [npm collects payment card data](#npm-collects-payment-card-data)
-    * [npm collects data about correspondence](#npm-collects-data-about-correspondence)
-    * [npm collects data about use of npm.community](#npm-collects-data-about-use-of-npmcommunity)
-* [Does npm share data about me with others?](#does-npm-share-data-about-me-with-others)
-    * [npm uses cookies](#npm-uses-cookies)
-* [How can I make choices about data collection?](#how-can-i-make-choices-about-data-collection)
-* [Where does npm keep data about me?](#where-does-npm-keep-data-about-me)
-* [How does npm handle data under the EU General Data Protection Regulation?](#how-does-npm-handle-data-under-the-eu-general-data-protection-regulation)
-* [How does npm handle data under the California Consumer Privacy Act?](#how-does-npm-handle-data-under-the-california-consumer-privacy-act)
-* [How can I see what data is publicly available about me?](#how-can-i-see-what-data-is-publicly-available-about-me)
-* [How can I change data about me?](#how-can-i-change-data-about-me)
-* [What is npm's policy on unpublishing packages?](#what-is-npms-policy-on-unpublishing-packages)
-* [How does npm notify others about published data that's erased?](#how-does-npm-notify-others-about-published-data-thats-erased)
-* [What happens if npm merges with or is bought by another company?](#what-happens-if-npm-merges-with-or-is-bought-by-another-company)
-* [What are npm's information practices regarding information belonging to children?](#what-are-npms-information-practices-regarding-information-belonging-to-children)
-* [Who can I contact about npm and my privacy?](#who-can-i-contact-about-npm-and-my-privacy)
-* [How can I find out about changes?](#how-can-i-find-out-about-changes)
-
-Table of contents
-
-* [What's most important?](#whats-most-important)
-* [How does npm collect data about me?](#how-does-npm-collect-data-about-me)
-* [What data does npm collect about me, and why?](#what-data-does-npm-collect-about-me-and-why)
-    * [npm collects data about how you use npm software and registries](#npm-collects-data-about-how-you-use-npm-software-and-registries)
-    * [npm collects data about how you use the website.](#npm-collects-data-about-how-you-use-the-website)
-    * [npm collects account data](#npm-collects-account-data)
-    * [npm collects package data](#npm-collects-package-data)
-    * [npm collects payment card data](#npm-collects-payment-card-data)
-    * [npm collects data about correspondence](#npm-collects-data-about-correspondence)
-    * [npm collects data about use of npm.community](#npm-collects-data-about-use-of-npmcommunity)
-* [Does npm share data about me with others?](#does-npm-share-data-about-me-with-others)
-    * [npm uses cookies](#npm-uses-cookies)
-* [How can I make choices about data collection?](#how-can-i-make-choices-about-data-collection)
-* [Where does npm keep data about me?](#where-does-npm-keep-data-about-me)
-* [How does npm handle data under the EU General Data Protection Regulation?](#how-does-npm-handle-data-under-the-eu-general-data-protection-regulation)
-* [How does npm handle data under the California Consumer Privacy Act?](#how-does-npm-handle-data-under-the-california-consumer-privacy-act)
-* [How can I see what data is publicly available about me?](#how-can-i-see-what-data-is-publicly-available-about-me)
-* [How can I change data about me?](#how-can-i-change-data-about-me)
-* [What is npm's policy on unpublishing packages?](#what-is-npms-policy-on-unpublishing-packages)
-* [How does npm notify others about published data that's erased?](#how-does-npm-notify-others-about-published-data-thats-erased)
-* [What happens if npm merges with or is bought by another company?](#what-happens-if-npm-merges-with-or-is-bought-by-another-company)
-* [What are npm's information practices regarding information belonging to children?](#what-are-npms-information-practices-regarding-information-belonging-to-children)
-* [Who can I contact about npm and my privacy?](#who-can-i-contact-about-npm-and-my-privacy)
-* [How can I find out about changes?](#how-can-i-find-out-about-changes)
-
 This notice describes how [npm, Inc.](https://www.npmjs.com/about), or _npm_ for short, collects and uses data about you.
 
 [](#whats-most-important)[What's most important?](#important)
@@ -249,7 +195,7 @@ npm collects data about visits, user accounts, and forum data on [npm.community]
 
 npm shares account data with others as [mentioned in the section about account data](#account-data).
 
-npm shares package data with others as [mentioned in the section about package data](https://docs.npmjs.com/policies/privacy#package-data).
+npm shares package data with others as [mentioned in the section about package data](https://docs.npmjs.com/privacy#package-data).
 
 npm publishes posts and other content you submit to [npm.community](https://npm.community/).
 
@@ -283,7 +229,7 @@ You choose what data the npm publish command includes in package data. You can u
 
 To double check the data that you will share in a package that you plan to publish, run the `npm publish --dry-run` command. If you are running an older version of the npm command, run the npm pack command to create a [tarball](https://en.wikipedia.org/wiki/Tar_(computing)), then check its contents, such as with `tar tvzf $tarball`.
 
-To publish a package to the npm public registry, npm's terms of service require you to [license npm to share it](https://docs.npmjs.com/policies/open-source-terms#your-content)). If a package is made public, it is available for everyone online to see. However, your [choice of public license for your package](https://docs.npmjs.com/files/package.json#license) may affect what others can do with data about you in your package.
+To publish a package to the npm public registry, npm's terms of service require you to \[license npm to share it\]\[your-content\]. If a package is made public, it is available for everyone online to see. However, your [choice of public license for your package](https://docs.npmjs.com/files/package.json#license) may affect what others can do with data about you in your package.
 
 npm does not respond to the [Do Not Track HTTP header](https://en.wikipedia.org/wiki/Do_Not_Track).
 
@@ -438,3 +384,5 @@ This version of npm's privacy questions and answers took effect June 3, 2020.
 npm will announce the next version on the [npm blog](https://blog.npmjs.org/). In the meantime, npm may update [its contact information](#contact) by updating the page at [https://docs.npmjs.com/privacy](https://docs.npmjs.com/policies/privacy), without an announcement. npm may change how it announces changes in future privacy versions.
 
 You can review the history of changes in [the Git repository for npm's public policies](https://github.com/npm/documentation/blob/main/content/policies/privacy.mdx).
+
+\[your-content\]: /policies/open-source-terms#your-content)
