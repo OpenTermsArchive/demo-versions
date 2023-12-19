@@ -1,68 +1,16 @@
 npm Open-Source Terms
 =====================
 
-Table of contents
-
-* [Important Terms](#important-terms)
-* [Other Terms](#other-terms)
-* [Legal Agreement](#legal-agreement)
-* [Changes](#changes)
-* [npm Policies](#npm-policies)
-* [Use of npm Open Source](#use-of-npm-open-source)
-* [Conditions](#conditions)
-* [Acceptable Use](#acceptable-use)
-* [Acceptable Content](#acceptable-content)
-* [Commercial Content](#commercial-content)
-* [Enforcement of Acceptable Use](#enforcement-of-acceptable-use)
-* [Your Account](#your-account)
-* [Your Content](#your-content)
-* [Feedback](#feedback)
-* [Indemnity](#indemnity)
-* [Disclaimers](#disclaimers)
-    * [Third-Party Services](#third-party-services)
-* [Limits on Liability](#limits-on-liability)
-* [Termination](#termination)
-* [Payment Terms](#payment-terms)
-* [General Terms](#general-terms)
-* [Disputes](#disputes)
-* [Notices and Questions](#notices-and-questions)
-
-Table of contents
-
-* [Important Terms](#important-terms)
-* [Other Terms](#other-terms)
-* [Legal Agreement](#legal-agreement)
-* [Changes](#changes)
-* [npm Policies](#npm-policies)
-* [Use of npm Open Source](#use-of-npm-open-source)
-* [Conditions](#conditions)
-* [Acceptable Use](#acceptable-use)
-* [Acceptable Content](#acceptable-content)
-* [Commercial Content](#commercial-content)
-* [Enforcement of Acceptable Use](#enforcement-of-acceptable-use)
-* [Your Account](#your-account)
-* [Your Content](#your-content)
-* [Feedback](#feedback)
-* [Indemnity](#indemnity)
-* [Disclaimers](#disclaimers)
-    * [Third-Party Services](#third-party-services)
-* [Limits on Liability](#limits-on-liability)
-* [Termination](#termination)
-* [Payment Terms](#payment-terms)
-* [General Terms](#general-terms)
-* [Disputes](#disputes)
-* [Notices and Questions](#notices-and-questions)
-
 These npm Open Source terms of use (these _Terms_) govern access to and use of [https://www.npmjs.com](https://www.npmjs.com/) (the _Website_) as well as the "npm Public Registry" at [https://registry.npmjs.org](https://registry.npmjs.org/) (the _Public Registry_). npm, Inc. (_npm_) operates each of those services. These terms refer to all of them together as _npm Open Source_.
 
 npm last updated these npm Open Source Terms on March 10, 2022. You can review prior versions at [https://github.com/npm/documentation/blob/main/content/policies/open-source-terms.mdx](https://github.com/npm/documentation/blob/main/content/policies/open-source-terms.mdx).
 
-[](#important-terms)Important Terms
+[Important Terms](#important-terms)
 -----------------------------------
 
 **_These Terms include a number of important provisions that affect your rights and responsibilities, such as the disclaimers in "Disclaimers", limits on npm's liability to you in "Limits on Liability", and an agreement to arbitrate disputes individually in "Arbitration"._**
 
-[](#other-terms)Other Terms
+[Other Terms](#other-terms)
 ---------------------------
 
 npm offers additional, paid services (_Paid Services_) that are subject to additional terms:
@@ -71,17 +19,17 @@ npm offers additional, paid services (_Paid Services_) that are subject to addit
 
 npm Open Source and any Paid Services you may agree to use are together called _npm Services_ throughout these Terms.
 
-[](#legal-agreement)Legal Agreement
+[Legal Agreement](#legal-agreement)
 -----------------------------------
 
 You may only access or use npm Services by agreeing to these Terms. If npm adds any additional functionality to npm Services, you must agree to these Terms to use that new functionality, too. You show your agreement with npm on these Terms by creating a user account (your _Account_) or by accessing or using npm Services without creating an account. The agreement between you and npm is a legally binding contract (this _Agreement_).
 
-[](#changes)Changes
+[Changes](#changes)
 -------------------
 
 npm may change these Terms and the additional terms for Paid Services in the future. npm will post changes on the Website with a new "last updated" date. If you have an Account, npm will notify you of changes by email to the address provided for your Account, by a message on the Website, or both. If you do not have an account, npm may notify you of changes by a general announcement via the Website, but it is up to you to check for changes to these Terms. After receiving notice of changes to these Terms, you must accept those changes to continue using npm Services. You accept changes to these Terms by continuing to use npm Services. npm may change, suspend, or discontinue npm Services at any time without notice or liability to you.
 
-[](#npm-policies)npm Policies
+[npm Policies](#npm-policies)
 -----------------------------
 
 npm respects your privacy and limits use and sharing of information about you collected by npm Services. The privacy policy at [https://docs.npmjs.com/policies/privacy](https://docs.npmjs.com/policies/privacy)(the _Privacy Policy_) describes these policies. npm will abide by the Privacy Policy and honor the privacy settings that you choose via npm Services.
@@ -94,7 +42,7 @@ Use of all npm Services is governed by the code of conduct at [https://docs.npmj
 
 npm permits use of npm trademarks per the policy at [https://docs.npmjs.com/trademark](https://docs.npmjs.com/policies/trademark).
 
-[](#use-of-npm-open-source)Use of npm Open Source
+[Use of npm Open Source](#use-of-npm-open-source)
 -------------------------------------------------
 
 Subject to these Terms, npm grants you permission to use npm Open Source. That permission is not exclusive to you, and you cannot transfer it to anyone else.
@@ -112,7 +60,7 @@ Your permission to use npm Open Source entitles you to do the following:
 5. You may visit, create an account for, and participate in, discussions on npm.community.
     
 
-[](#conditions)Conditions
+[Conditions](#conditions)
 -------------------------
 
 Your permission to use npm Open Source, as well as any permission you may have to use Paid Services, are subject to the following conditions:
@@ -126,7 +74,7 @@ Your permission to use npm Open Source, as well as any permission you may have t
 4. You may access and use data about the security of Packages, such as vulnerability reports, audit status reports, and supplementary security documentation, only for your own personal or internal business purposes. You may _not_ provide others access to, copies of, or use of npm data about the security of Packages, directly or as part of other products or services.
     
 
-[](#acceptable-use)Acceptable Use
+[Acceptable Use](#acceptable-use)
 ---------------------------------
 
 1. You will abide by the [Code of Conduct](https://docs.npmjs.com/policies/conduct) and the [Dispute Policy](https://docs.npmjs.com/policies/disputes).
@@ -166,7 +114,7 @@ Your permission to use npm Open Source, as well as any permission you may have t
 18. You will not encourage or assist any other person in violation of "Acceptable Use".
     
 
-[](#acceptable-content)Acceptable Content
+[Acceptable Content](#acceptable-content)
 -----------------------------------------
 
 Administrators at npm reserve the right to delete content hosted on the npm Services that they deem unacceptable. Unacceptable content can take the form of a package, a README file, a user or organization name, or any other content submitted to npm Services. A few examples of unacceptable content:
@@ -184,7 +132,7 @@ Administrators at npm reserve the right to delete content hosted on the npm Serv
 
 To find out how to report violations of Acceptable Content, refer to the [Code of Conduct](https://docs.npmjs.com/policies/conduct).
 
-[](#commercial-content)Commercial Content
+[Commercial Content](#commercial-content)
 -----------------------------------------
 
 The npm Public Registry is about Packages. All manner of useful Packages are welcome, from hobby projects to competitive products, enterprise infrastructure and tooling to the latest fun hack or work of software art.
@@ -215,12 +163,12 @@ These kinds of commercial content generally _aren't_ acceptable:
 
 These examples are just examples. npm will continue to apply its judgment when deciding what content is acceptable. npm will continue to expect you to apply your own judgment when choosing what you share and how.
 
-[](#enforcement-of-acceptable-use)Enforcement of Acceptable Use
+[Enforcement of Acceptable Use](#enforcement-of-acceptable-use)
 ---------------------------------------------------------------
 
 npm may investigate and prosecute violations of this Agreement to the fullest legal extent. npm may notify and cooperate with law enforcement authorities in prosecuting violations of this Agreement.
 
-[](#your-account)Your Account
+[Your Account](#your-account)
 -----------------------------
 
 You must create and log into an Account to access features of some npm Services, including npm Open Source.
@@ -231,7 +179,7 @@ You will be responsible for all action taken using your account, whether authori
 
 npm may restrict, suspend, or terminate your Account according to the Copyright Policy, if npm reasonably believes that you are in breach of these Terms, or if npm reasonably believes that you have misused npm Services.
 
-[](#your-content)Your Content
+[Your Content](#your-content)
 -----------------------------
 
 Nothing in this Agreement gives npm any ownership rights in intellectual property that you share with npm Services, such as your Account information or any Packages you share with npm Services (_Your Content_). Nothing in this Agreement gives you any ownership rights in npm intellectual property provided via npm Services, like software, documentation, trademarks, service marks, logotypes, or other distinguishing graphics.
@@ -246,17 +194,17 @@ When Your Content is removed from npm Services, whether by you or npm, npm's spe
 
 Others who receive Your Content via npm Services may violate the terms on which you license Your Content. You agree that npm will not be liable to you for those violations or their consequences.
 
-[](#feedback)Feedback
+[Feedback](#feedback)
 ---------------------
 
 npm welcomes your feedback and suggestions for npm Services. You agree that npm will be free to act on feedback and suggestions you provide without further notice, consent, or payment. You will not submit feedback or suggestions that you consider confidential or proprietary.
 
-[](#indemnity)Indemnity
+[Indemnity](#indemnity)
 -----------------------
 
 You will indemnify npm, its officers, directors, employees, representatives, and agents, and hold them harmless for, all liability, expenses, damages, and costs from any third-party claims, demands, lawsuits, or other proceedings alleging that Your Content, your use of npm Services, or both, violate the intellectual property right of a third party, this Agreement, or applicable law. You will not settle any such proceeding without the prior written consent of npm. npm will notify you of any such proceeding it becomes aware of.
 
-[](#disclaimers)Disclaimers
+[Disclaimers](#disclaimers)
 ---------------------------
 
 **_Use of npm Services is at your sole risk. npm Services are provided on an "as is" and "as available" basis. npm expressly disclaims all warranties of any kind, whether express, implied, or statutory, including implied warranties of title, noninfringement, merchantability, and fitness for a particular purpose._**
@@ -269,11 +217,11 @@ npm Services may provide information and software that is inaccurate, incomplete
 
 npm Services provide information about ownership and licensing of Packages, as provided by those Packages' publishers. That information may be wrong. npm cannot and does not provide legal advice.
 
-### [](#third-party-services)Third-Party Services
+### [Third-Party Services](#third-party-services)
 
 npm Services may hyperlink to and integrate with third-party applications, websites, and other services. You decide whether and how to use and interact with such services. npm does not make any warranty regarding such services or content they may provide, and will not be liable to you for any damages related to such services. Use of such third-party services may be governed by other terms and privacy notices that are not part of this Agreement and are not controlled by npm.
 
-[](#limits-on-liability)Limits on Liability
+[Limits on Liability](#limits-on-liability)
 -------------------------------------------
 
 **_Neither npm nor any third-party service provider used by npm to provide npm Services will, under any circumstances, be liable to you for any indirect, incidental, consequential, special, or exemplary damages related to your use of npm Services or this Agreement, whether based on breach of contract, breach of warranty, tort (including negligence, product liability, or otherwise), or any other pecuniary loss, and whether or not npm has been advised of the possibility of such damages._**
@@ -282,7 +230,7 @@ npm Services may hyperlink to and integrate with third-party applications, websi
 
 Some jurisdictions do not allow exclusion of certain warranties or limits on liability for incidental or consequential damages. Some of "Disclaimers" and "Limits on Liability" may not apply to you.
 
-[](#termination)Termination
+[Termination](#termination)
 ---------------------------
 
 Either you or npm may terminate this Agreement at any time with notice to the other.
@@ -291,12 +239,12 @@ On termination of this Agreement, your permission to use npm Open Source, as wel
 
 The following provisions survive termination of this Agreement: "Your Content", "Feedback", "Indemnity", "Disclaimers", "Limits on Liability", and "General Terms". Users of npm Services may continue to copy and share Your Content after termination of this Agreement.
 
-[](#payment-terms)Payment Terms
+[Payment Terms](#payment-terms)
 -------------------------------
 
 There is no charge for use of npm Open Source. If you use Paid Services from npm, our Paid Services Terms at [https://docs.npmjs.com/policies/private-terms](https://docs.npmjs.com/policies/private-terms) apply.
 
-[](#general-terms)General Terms
+[General Terms](#general-terms)
 -------------------------------
 
 If a provision of this Agreement is unenforceable as written, but could be changed to make it enforceable, that provision should be modified to the minimum extent necessary to make it enforceable. Otherwise, that provision should be removed.
@@ -307,7 +255,7 @@ Neither the exercise of any right under this Agreement, nor waiver of any breach
 
 This Agreement, together with the additional terms for Paid Services and npm software that you and npm agree to, embody all the terms of agreement between you and npm about npm Services. This Agreement supersedes any other agreements about npm Services, written or not.
 
-[](#disputes)Disputes
+[Disputes](#disputes)
 ---------------------
 
 The law of the State of California will govern any dispute, including any legal proceedings, relating to this Agreement or your use of npm Services (a _Dispute_).
@@ -318,7 +266,7 @@ You and npm will seek injunctions related to this agreement only in state or fed
 
 Any arbitration award will include costs of the arbitration, reasonable attorneys' fees, and reasonable costs for witnesses. You or npm can enter arbitration awards in any court with jurisdiction.
 
-[](#notices-and-questions)Notices and Questions
+[Notices and Questions](#notices-and-questions)
 -----------------------------------------------
 
 You may send notice to npm and questions about the terms governing npm products and services to [legal@npmjs.com](mailto:legal@npmjs.com) or by mail to:
