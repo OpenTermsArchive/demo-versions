@@ -217,7 +217,8 @@ npm Services may provide information and software that is inaccurate, incomplete
 
 npm Services provide information about ownership and licensing of Packages, as provided by those Packages' publishers. That information may be wrong. npm cannot and does not provide legal advice.
 
-### [Third-Party Services](#third-party-services)
+[Third-Party Services](#third-party-services)
+---------------------------------------------
 
 npm Services may hyperlink to and integrate with third-party applications, websites, and other services. You decide whether and how to use and interact with such services. npm does not make any warranty regarding such services or content they may provide, and will not be liable to you for any damages related to such services. Use of such third-party services may be governed by other terms and privacy notices that are not part of this Agreement and are not controlled by npm.
 
