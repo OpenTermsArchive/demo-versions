@@ -33,4 +33,4 @@ If not, you may just be the best person to add them by [following the documentat
 
 # License
 
-Any database in this repository is distributed under an ODC-BY 1.0 license. That means you are free to share, to create, to adapt the database as long as you attribute the resulting works to *<!-- customize to your context -->Open Terms Archive Core Team<!-- until here --> and Open Terms Archive contributors*.
+Any database in this repository is distributed under an [ODC-BY 1.0](https://opendatacommons.org/licenses/by/1-0/) license. That means you are free to share, to create, to adapt the database as long as you attribute the resulting works to *<!-- customize to your context -->Open Terms Archive Core Team<!-- until here --> and Open Terms Archive contributors*.
