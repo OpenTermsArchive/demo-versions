@@ -29,8 +29,9 @@ Content of Terms
 13. [Indemnification](https://uptimerobot.com/terms/#indemnification)
 14. [No Resale or Redistribution of Service](https://uptimerobot.com/terms/#no-resale-or-redistribution-of-service)
 15. [Affiliate program](https://uptimerobot.com/terms/#affiliate)
-16. [Contacting UptimeRobot](https://uptimerobot.com/terms/#contacting-uptimerobot)
-17. [Miscellaneous](https://uptimerobot.com/terms/#miscellaneous)
+16. [Referral program](https://uptimerobot.com/terms/#referral-program)
+17. [Contacting UptimeRobot](https://uptimerobot.com/terms/#contacting-uptimerobot)
+18. [Miscellaneous](https://uptimerobot.com/terms/#miscellaneous)
 
 1. **Your UptimeRobot Account and Site.** If you have an account on the products, you are responsible for maintaining the security of your account (e-mail used, password, or API keys) and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the account. You must not using UptimeRobot services in a misleading or unlawful manner, including in a manner intended to trade on the name or reputation of others, and UptimeRobot may change or remove any content that it considers inappropriate or unlawful, or otherwise likely to cause UptimeRobot liability. You must immediately notify UptimeRobot of any unauthorized uses of your account or any other breaches of security. UptimeRobot will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions.
 2. **Responsibility of Contributors.** By using the products, you are entirely responsible for:
@@ -119,20 +120,43 @@ Content of Terms
     
     We do not make any expressed or implied warranties with respect to the Program and/or the memberships or products sold by UptimeRobot. We make no claim that the operation of the Program and/or our website(s) will be error-free and we will not be liable for any interruptions or errors.
     
-    Referrals coming from email SPAM (unsolicited emails) will not be counted and may lead to the termination of your affiliate account.
+    Users coming from email SPAM (unsolicited emails) will not be counted and may lead to the termination of your affiliate account.
     
-17. **Contacting UptimeRobot.** UptimeRobot may be contacted by email at support@uptimerobot.com. By contacting UptimeRobot, the client grants UptimeRobot a worldwide, non-exclusive perpetual right to any ideas, information, designs or other material contained in any communication, except when the client has obtained prior written agreement from the UptimeRobot board.  
+17. **Referral Program.** As a participant in UptimeRobot’s Referral Program, you can earn exclusive merchandise by referring your friends to UptimeRobot. By joining the Referral Program, you agree to the following terms:  
       
-    The client agrees not to pass to UptimeRobot any commercially sensitive information and data about their own operations. The client accepts that information sent to UptimeRobot will not under any circumstance be considered subject to any form of a non-disclosure agreement, except when the client has obtained prior written consent from the UptimeRobot board.  
+    **1\. Rewards and Conditions**
+    
+    * Rewards are granted only when referred users successfully sign up for any of the paid plans.
+    * The reward you receive depends on the number of successful referrals and is based on the current rewards and requirements listed on our website. Please refer to the website for the most up-to-date information currently applied.
+    * Merchandise availability is subject to our providers and may vary by region. While we aim to cover most countries, there may be some locations where shipping is not possible. We reserve the right to limit availability based on these constraints.
+    
+    **2\. Prohibited Activities**
+    
+    To keep the program fair, the following activities are not allowed:
+    
+    * Coupon sites (Websites primarily focused on listing discount codes and promotional offers)
+    * PPC advertising with a direct link leading to any UptimeRobot website (including all tools and landing pages)
+    * Using any UptimeRobot brand, logo, or tool name (including misspelled versions) in PPC advertising, domains, subdomains, or social media profiles
+    * Using misleading or incorrect information (e.g., non-existent discounts, unauthorized offers)
+    * Using discount coupons or referral links that are not assigned to you
+    * The so-called 'self-referrals' (creating another account using your own referral link)
+    * Referrals coming from email SPAM (unsolicited emails)
+    
+    **3\. Program Integrity\*\***
+    
+    * UptimeRobot reserves the right to disqualify referrals and terminate accounts that violate these terms or engage in fraudulent behavior.
+    * Violations of these rules may result in the forfeiture of rewards or termination from the program.
+    
+    **4\. No Financial Obligation\*\***
+    * Rewards are non-monetary, and there are no cash equivalents.
+18. **Contacting UptimeRobot.** UptimeRobot may be contacted by email at support@uptimerobot.com. By contacting UptimeRobot, the client grants UptimeRobot a worldwide, non-exclusive perpetual right to any ideas, information, designs or other material contained in any communication, except when the client has obtained prior written agreement from the UptimeRobot board. The client agrees not to pass to UptimeRobot any commercially sensitive information and data about their own operations. The client accepts that information sent to UptimeRobot will not under any circumstance be considered subject to any form of a non-disclosure agreement, except when the client has obtained prior written consent from the UptimeRobot board.  
       
     All parties take into consideration that email is not a secure, guaranteed medium of communication. Emails should only be regarded as received by UptimeRobot if the client receives a manually created response.  
       
     With the exception of the above points, all discussions over email are deemed to be of informal nature, and should only be taken as binding when indicated as such by the UptimeRobot board.  
       
-    Any suggestions, mention or reference of any alteration to past, present or future contractual terms by UptimeRobot should be taken purely as speculative until such time that the client is in possession of written confirmation by the UptimeRobot board.  
-      
-    
-18. **Miscellaneous.** This Agreement constitutes the entire agreement between UptimeRobot and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of UptimeRobot, or by the posting by UptimeRobot of a revised version. Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of the products will be governed by the laws of Malta in the District Court of Sliema. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; UptimeRobot may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
+    Any suggestions, mention or reference of any alteration to past, present or future contractual terms by UptimeRobot should be taken purely as speculative until such time that the client is in possession of written confirmation by the UptimeRobot board.
+19. **Miscellaneous.** This Agreement constitutes the entire agreement between UptimeRobot and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of UptimeRobot, or by the posting by UptimeRobot of a revised version. Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of the products will be governed by the laws of Malta in the District Court of Sliema. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; UptimeRobot may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
 
 **Changelog:**
 
