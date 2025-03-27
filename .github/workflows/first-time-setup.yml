@@ -2,8 +2,8 @@ name: first-time-setup
 run-name: Setup
 
 on:
-  # Run when repo is generated from template
-  create:
+  push:
+    branches: [ main ]
 
 # Only keep latest run of this workflow
 concurrency:
@@ -15,11 +15,10 @@ permissions:
   checks: write
   contents: write
 
-
 jobs:
   first-time-setup:
-    # Ensure this action is run only once
-    if: github.run_number == 1
+    # Ensure this action is run only on the creation of the repository
+    if: github.event.created == true
 
     runs-on: ubuntu-latest
 
