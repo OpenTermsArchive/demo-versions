@@ -12,15 +12,15 @@ If you have any questions about these Terms, you may contact us at [\[email pro
 
 (a) Our Platform provides a platform that may be used by an organization or group with a shared purpose (a "**Collective**") to work with a Fiscal Host to enable the Collective to collect and disburse funds for expenses that support the Collective. The goal of our Platform is to promote transparency and make it easier to track incoming and outgoing funds for the benefit of the Collective. Below is a list of the different roles that may be associated with each Collective:
 
-* **"Fiscal Host"** - The Fiscal Host is an individual or entity that receives and holds funds contributed by Financial Contributors via the Platform for use in support of a designated Collective. Fiscal Hosts are also referred to as Hosts. Additional terms for Fiscal Hosts are included in Section 7 below.
+*   **"Fiscal Host"** - The Fiscal Host is an individual or entity that receives and holds funds contributed by Financial Contributors via the Platform for use in support of a designated Collective. Fiscal Hosts are also referred to as Hosts. Additional terms for Fiscal Hosts are included in Section 7 below.
     
-* **"Contributor"** - a Contributor is an individual or entity that participates in the Collective in some way, such as by acting as a Collective Administrator, Financial Contributor, or Expense Submitter, or by participating in any other way, such as attending a Collective’s event.
+*   **"Contributor"** - a Contributor is an individual or entity that participates in the Collective in some way, such as by acting as a Collective Administrator, Financial Contributor, or Expense Submitter, or by participating in any other way, such as attending a Collective’s event.
     
-* **"Collective Administrator"** - A Collective Administrator is a Contributor that has administrator responsibilities for a Collective, including editing its content and the ability to approve expense payments associated with the Collective. Collective Administrators are also referred to as core contributors or admins on the Platform. Additional terms for Collective Administrators are included in Section 5 below.
+*   **"Collective Administrator"** - A Collective Administrator is a Contributor that has administrator responsibilities for a Collective, including editing its content and the ability to approve expense payments associated with the Collective. Collective Administrators are also referred to as core contributors or admins on the Platform. Additional terms for Collective Administrators are included in Section 5 below.
     
-* **"Financial Contributor"** - A Financial Contributor is a Contributor that uses the Platform to contribute funds to a Fiscal Host that are intended to support a particular Collective. Additional terms for Financial Contributors are included in Section 4 below.
+*   **"Financial Contributor"** - A Financial Contributor is a Contributor that uses the Platform to contribute funds to a Fiscal Host that are intended to support a particular Collective. Additional terms for Financial Contributors are included in Section 4 below.
     
-* **"Expense Submitter"** - a Expense Submitter is a Contributor that submits a payment request in connection with an expense incurred by that user in support of a Collective. Additional terms for Expense Submitters are included in Section 8 below.
+*   **"Expense Submitter"** - a Expense Submitter is a Contributor that submits a payment request in connection with an expense incurred by that user in support of a Collective. Additional terms for Expense Submitters are included in Section 8 below.
     
 
 (b) For clarity, our Platform does not store or transmit funds. All funds are stored by Fiscal Hosts, and the Platform is integrated with third-party payment services that process any contributions or disbursements.
@@ -116,42 +116,42 @@ Expense Submitters must only submit requests for payment via the Platform for ex
 
 You must comply with the Open Collective [Community Guidelines](https://docs.opencollective.com/help/about/community-guidelines). You will not violate any applicable law, contract, intellectual property or other third-party right or commit a tort, and you are solely responsible for your conduct while accessing or using our Platform. You will not:
 
-* Engage in any harassing, threatening, intimidating, predatory or stalking conduct;
+*   Engage in any harassing, threatening, intimidating, predatory or stalking conduct;
     
-* Use or attempt to use another user’s account without authorization from that user and Open Collective;
+*   Use or attempt to use another user’s account without authorization from that user and Open Collective;
     
-* Use our Platform in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our Platform or that could damage, disable, overburden or impair the functioning of our Platform in any manner;
+*   Use our Platform in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our Platform or that could damage, disable, overburden or impair the functioning of our Platform in any manner;
     
-* Reverse engineer any aspect of our Platform or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Platform;
+*   Reverse engineer any aspect of our Platform or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Platform;
     
-* Attempt to circumvent any content-filtering techniques we employ or attempt to access any feature or area of our Platform that you are not authorized to access;
+*   Attempt to circumvent any content-filtering techniques we employ or attempt to access any feature or area of our Platform that you are not authorized to access;
     
-* Develop or use any third-party applications that interact with our Platform without our prior written consent, including any scripts designed to scrape or extract data from our Platform;
+*   Develop or use any third-party applications that interact with our Platform without our prior written consent, including any scripts designed to scrape or extract data from our Platform;
     
-* Bypass or ignore instructions contained in our robots.txt file that controls automated access to portions of our Platform; or
+*   Bypass or ignore instructions contained in our robots.txt file that controls automated access to portions of our Platform; or
     
-* Use our Platform for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
+*   Use our Platform for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
     
 
 You may also only post or otherwise share User Content that is non-confidential and you have all necessary rights to disclose. You may not create, post, store or share any User Content that:
 
-* Is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory or fraudulent;
+*   Is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory or fraudulent;
     
-* Would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or otherwise create liability or violate any local, state, national or international law;
+*   Would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or otherwise create liability or violate any local, state, national or international law;
     
-* May infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
+*   May infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
     
-* Contains or depicts any statements, remarks or claims that do not reflect your honest views and experiences;
+*   Contains or depicts any statements, remarks or claims that do not reflect your honest views and experiences;
     
-* Impersonates, or misrepresents your affiliation with, any person or entity;
+*   Impersonates, or misrepresents your affiliation with, any person or entity;
     
-* Contains any unsolicited promotions, political campaigning, advertising or solicitations;
+*   Contains any unsolicited promotions, political campaigning, advertising or solicitations;
     
-* Contains any private or personal information of a third-party without such third-party’s consent;
+*   Contains any private or personal information of a third-party without such third-party’s consent;
     
-* Contains any viruses, corrupted data or other harmful, disruptive or destructive files or content; or
+*   Contains any viruses, corrupted data or other harmful, disruptive or destructive files or content; or
     
-* Is, in our sole judgment, objectionable or that restricts or inhibits any other person from using or enjoying our Platform, or that may expose Open Collective or others to any harm or liability of any type.
+*   Is, in our sole judgment, objectionable or that restricts or inhibits any other person from using or enjoying our Platform, or that may expose Open Collective or others to any harm or liability of any type.
     
 
 12\. Open Source Software
