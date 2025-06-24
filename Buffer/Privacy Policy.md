@@ -398,7 +398,7 @@ When we process Personal Information on behalf of our commercial customers, our 
 
 We conduct an annual self-assessment of our Personal Information practices to verify that the attestations and assertions made in this Policy are true and have been implemented as represented.
 
-If you have any questions or concerns, we encourage you to write to us at the address listed below. We will investigate and attempt to resolve any complaints or disputes regarding our use and disclosure of Personal Information in accordance with the Principles. Within the scope of this privacy notice, if a privacy complaint or dispute cannot be resolved through Buffer, Inc.’s internal processes, Buffer, Inc. has agreed to participate in the **DataRep DPF**
+If you have any questions or concerns, we encourage you to write to us at the address listed below. We will investigate and attempt to resolve any complaints or disputes regarding our use and disclosure of Personal Information in accordance with the Principles. Within the scope of this privacy notice, if a privacy complaint or dispute cannot be resolved through Buffer, Inc.’s internal processes, Buffer, Inc. has agreed to cooperate with VeraSafe, an independent dispute resolution provider, to address and resolve such complaints in accordance with the Data Privacy Framework Principles.
 
 ### Dispute Resolution Procedure
 
