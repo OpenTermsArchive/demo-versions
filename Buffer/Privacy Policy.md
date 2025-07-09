@@ -333,6 +333,7 @@ A: We primarily collect data when a user signs-up for Buffer services. Read more
 | Hotjar | Analytics Tool | Malta |
 | Klaus | Customer Support Services | Estonia |
 | MongoDB Atlas | Cloud database | USA |
+| Microsoft, MS Clarity | Analytics | USA |
 | Mixpanel | Business intelligence software used to analyze service usage | USA |
 | Pusher Ltd | Push Notifications | United Kingdom |
 | Retool | Internal Tooling | USA |
