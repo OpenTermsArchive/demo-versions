@@ -123,7 +123,7 @@ EU individuals also have the right to make a complaint to a government superviso
 How to Reach Us
 ---------------
 
-If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please [contact us](https://uptimerobot.com/support).
+If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us directly via [support@uptimerobot.com](mailto:support@uptimerobot.com).
 
 Other Things You Should Know (Keep Reading!)
 --------------------------------------------
