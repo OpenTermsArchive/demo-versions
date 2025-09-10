@@ -19,8 +19,8 @@ Improvement and contact
 
 If you are unable to access a content or service, you can contact the Open Terms Archive manager to be directed to an accessible alternative or to obtain the content in another form.
 
-* E-mail: [contact@opentermsarchive.org](mailto:contact@opentermsarchive.org)
-* Mastodon: [@opentermsarchive@mastodon.social](https://mastodon.social/@opentermsarchive)
+*   E-mail: [contact@opentermsarchive.org](mailto:contact@opentermsarchive.org)
+*   Mastodon: [@opentermsarchive@mastodon.social](https://mastodon.social/@opentermsarchive)
 
 We try to respond within 2 business days.
 
@@ -31,9 +31,9 @@ This procedure is to be used in the following case: you have notified the websit
 
 You can:
 
-* Write a message to the [Défenseur des droits](https://formulaire.defenseurdesdroits.fr/)
-* Contact [the representative of the Défenseur des droits in your region](https://www.defenseurdesdroits.fr/saisir/delegues)
-* Send a letter by post (free of charge in France, do not put a stamp):  
+*   Write a message to the [Défenseur des droits](https://formulaire.defenseurdesdroits.fr/)
+*   Contact [the representative of the Défenseur des droits in your region](https://www.defenseurdesdroits.fr/saisir/delegues)
+*   Send a letter by post (free of charge in France, do not put a stamp):  
     Défenseur des droits  
     Libre réponse 71120 75342 Paris CEDEX 07  
     France
