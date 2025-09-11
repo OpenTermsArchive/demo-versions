@@ -318,28 +318,28 @@ A: We primarily collect data when a user signs-up for Buffer services. Read more
 | --- | --- | --- |Sub-processors
 | Provider | Service | Location |
 | --- | --- | --- |
-| Amazon Web Services (AWS), Inc | Cloud (Hosting) Service | USA |
-| Birdie | Customer Support Services | France |
+| Amazon Web Services (AWS), Inc | Cloud (hosting) service | USA |
+| Brainfish | Software service | Australia |
 | Bugsnag | Error monitoring service | USA |
-| Chartmogul | Analytics Platform | Germany |
-| Cloudflare, Inc | Deployment and Delivery | USA |
-| Customer.io | Email Communication | USA |
+| ChartMogul | Analytics platform | Germany |
+| Cloudflare, Inc | Deployment and delivery | USA |
+| Customer.io | Email communication | USA |
 | Datadog | Performance, infrastructure and network monitoring | USA |
 | Fivetran | Automated data movement platform | USA |
-| Fullstory | Analytics to improve Buffer services | USA |
 | Google | Data storage and processing | USA |
 | HelloNext | Customer feedback | India |
-| HelpScout | Customer Support Services | USA |
-| Hotjar | Analytics Tool | Malta |
-| Klaus | Customer Support Services | Estonia |
+| HelpScout | Customer support services | USA |
+| Hightouch | Customer support services | USA |
 | MongoDB Atlas | Cloud database | USA |
-| Microsoft, MS Clarity | Analytics | USA |
+| Microsoft, MS Clarity | Behavior analytics tool | USA |
 | Mixpanel | Business intelligence software used to analyze service usage | USA |
-| Pusher Ltd | Push Notifications | United Kingdom |
-| Retool | Internal Tooling | USA |
+| OpenAI | Artificial Intelligence | USA |
+| Pendo | Analytics | USA |
+| Pusher Ltd | Push notifications | United Kingdom |
+| Retool | Internal tooling | USA |
 | RevenueCat | Analytics | USA |
-| Segment / Twilio | Data infrastructure / Messaging | USA |
-| Stripe, Inc | Payment Processing | USA |
+| Segment / Twilio | Data infrastructure / messaging | USA |
+| Stripe, Inc | Payment processing | USA |
 | Xero | Accounting | USA |
 
 Data Privacy Frameworks Policy (DPFs Policy)
