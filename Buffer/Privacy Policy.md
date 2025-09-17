@@ -13,19 +13,19 @@ Registration with, use of, and access to the Service is subject to this Privacy 
 
 **Here are the sections below:**
 
-* [1\. Personal Information We May Collect](#personal-information-we-may-collect)
-* [2\. Personal Information Provided by You](#personal-information-provided-by-you)
-* [2a. Personal Information Collected from Connected Social Media Accounts](#personal-information-collected-from-connected-social-media-accounts)
-* [2b. Personal Information Automatically Obtained from Your Interactions with the Service](#personal-information-automatically-obtained-from-your-interactions-with-the-service)
-* [3\. How We May Use Your Personal Information](#how-we-may-use-your-personal-information)
-* [4\. How We Share Your Personal Information](#how-we-share-your-personal-information)
-* [5\. How We Protect Your Personal Information](#how-we-protect-your-personal-information)
-* [6\. Your Rights and Choices](#your-rights-and-choices)
-* [7\. Data Transfers](#data-transfers)
-* [8\. Children’s Privacy](#childrens-privacy)
-* [9\. Updates to this Privacy Policy](#updates-to-this-privacy-policy)
-* [10\. Your California Privacy Rights](#your-california-privacy-rights)
-* [11\. How to Contact Us](#how-to-contact-us)
+*   [1\. Personal Information We May Collect](#personal-information-we-may-collect)
+*   [2\. Personal Information Provided by You](#personal-information-provided-by-you)
+*   [2a. Personal Information Collected from Connected Social Media Accounts](#personal-information-collected-from-connected-social-media-accounts)
+*   [2b. Personal Information Automatically Obtained from Your Interactions with the Service](#personal-information-automatically-obtained-from-your-interactions-with-the-service)
+*   [3\. How We May Use Your Personal Information](#how-we-may-use-your-personal-information)
+*   [4\. How We Share Your Personal Information](#how-we-share-your-personal-information)
+*   [5\. How We Protect Your Personal Information](#how-we-protect-your-personal-information)
+*   [6\. Your Rights and Choices](#your-rights-and-choices)
+*   [7\. Data Transfers](#data-transfers)
+*   [8\. Children’s Privacy](#childrens-privacy)
+*   [9\. Updates to this Privacy Policy](#updates-to-this-privacy-policy)
+*   [10\. Your California Privacy Rights](#your-california-privacy-rights)
+*   [11\. How to Contact Us](#how-to-contact-us)
 
 ### 1\. Personal Information We May Collect
 
@@ -124,20 +124,20 @@ Our Site contains links to other websites. The fact that we link to a website is
 
 We may use the Personal Information we obtain about you to:
 
-* create and manage your account, provide our Service, process payments, and respond to your inquiries;
-* manage account authentication such as two-factor authentication
-* communicate with you to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance, including by periodically emailing you service-related announcements;
-* tailor our Service (e.g., we may use cookies and similar technologies to remember your preferences);
-* publish your content, comments or messages on social media platforms;
-* provide tailored advertising, for Buffer services, via Google AdWords;
-* aggregate your Personal Information for analytical purposes;
-* provide customer support;
-* operate, evaluate and improve our business (including by developing new products and services; managing our communications; determining the effectiveness of our advertising; analyzing how the Service is being accessed and used; tracking performance of the Service; debugging the Service; facilitating the use of our Service);
-* send you marketing communications about products, services, offers, programs and promotions of Buffer, and affiliated companies;
-* ensure the security of our Service;
-* manage our customer, service provider and partner relationships;
-* enforce our agreements related to our Service and our other legal rights; and
-* comply with applicable legal requirements, industry standards and our policies.
+*   create and manage your account, provide our Service, process payments, and respond to your inquiries;
+*   manage account authentication such as two-factor authentication
+*   communicate with you to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance, including by periodically emailing you service-related announcements;
+*   tailor our Service (e.g., we may use cookies and similar technologies to remember your preferences);
+*   publish your content, comments or messages on social media platforms;
+*   provide tailored advertising, for Buffer services, via Google AdWords;
+*   aggregate your Personal Information for analytical purposes;
+*   provide customer support;
+*   operate, evaluate and improve our business (including by developing new products and services; managing our communications; determining the effectiveness of our advertising; analyzing how the Service is being accessed and used; tracking performance of the Service; debugging the Service; facilitating the use of our Service);
+*   send you marketing communications about products, services, offers, programs and promotions of Buffer, and affiliated companies;
+*   ensure the security of our Service;
+*   manage our customer, service provider and partner relationships;
+*   enforce our agreements related to our Service and our other legal rights; and
+*   comply with applicable legal requirements, industry standards and our policies.
 
 ### 4\. How We Share Your Personal Information
 
@@ -223,9 +223,9 @@ For the purposes of this notice, **Personal Information** means information that
 
 Personal Information does not include information that is:
 
-* Lawfully made available from government records.
-* De-identified or aggregated.
-* Otherwise excluded from the scope of the CCPA.
+*   Lawfully made available from government records.
+*   De-identified or aggregated.
+*   Otherwise excluded from the scope of the CCPA.
 
 The chart below provides the categories of Personal Information (as defined by the CCPA) we have collected, disclosed for a business purpose, sold, or used for business or commercial purposes in the preceding twelve months since this notice was last updated, as well as the categories of sources from which that information was collected, and the categories of third parties with whom we shared Personal Information. The examples of Personal Information provided for each category reflect each category’s statutory definition and may not reflect all of the specific types of Personal Information associated with each category.
 
