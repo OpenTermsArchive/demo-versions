@@ -63,7 +63,7 @@ It is the policy of Buffer, in appropriate circumstances and in its sole discret
 
 If you are ready to submit a notice or a counter notice:
 
-* [How to Submit a DMCA Notice](https://buffer.com/dmca/notice)
-* [How to Submit a DMCA Counter Notice](https://buffer.com/dmca/counter-notice)
+*   [How to Submit a DMCA Notice](https://buffer.com/dmca/notice)
+*   [How to Submit a DMCA Counter Notice](https://buffer.com/dmca/counter-notice)
 
 \*Note: Buffer’s DMCA policies have been influenced by those at [Netlify](https://www.netlify.com/dmca/).
