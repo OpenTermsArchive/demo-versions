@@ -23,15 +23,15 @@ If you find yourself in a jam, [open a support ticket](https://npmjs.com/support
 
 npm collects data about you:
 
-* when you use the [npm command](https://www.npmjs.com/package/npm), the [npx command](https://docs.npmjs.com/cli/commands/npx) or another program to access the [npm public registry](https://registry.npmjs.org/), [Enterprise registries that npm hosts](https://www.npmjs.com/enterprise), [private packages](https://www.npmjs.com/features), such as when you're publishing a software package, and APIs for functionality like account and permissions management
+*   when you use the [npm command](https://www.npmjs.com/package/npm), the [npx command](https://docs.npmjs.com/cli/commands/npx) or another program to access the [npm public registry](https://registry.npmjs.org/), [Enterprise registries that npm hosts](https://www.npmjs.com/enterprise), [private packages](https://www.npmjs.com/features), such as when you're publishing a software package, and APIs for functionality like account and permissions management
     
-* when you browse the npm website, [npmjs.com](https://www.npmjs.com/)
+*   when you browse the npm website, [npmjs.com](https://www.npmjs.com/)
     
-* when you use either the npm command or the website to create an npm account, update your account, and sign up for npm services
+*   when you use either the npm command or the website to create an npm account, update your account, and sign up for npm services
     
-* when you send support, privacy, legal, and other requests to npm
+*   when you send support, privacy, legal, and other requests to npm
     
-* when working with and researching current and potential customers
+*   when working with and researching current and potential customers
     
 
 When researching potential customers, npm staff sometimes search the public World Wide Web or paid business databases. Otherwise, npm doesn't buy or receive data about you from data brokers or other private services.
@@ -46,42 +46,42 @@ npm may inadvertently collect data about you if it is included in software packa
 
 When you use the `npm` command, the `npx` command, or other software to work with the npm public registry, an Enterprise registry that npm hosts, or private packages, npm logs data that might be identified to you:
 
-* a random, unique identifier, called `npm-session`, for each time you run commands like `npm install`
+*   a random, unique identifier, called `npm-session`, for each time you run commands like `npm install`
     
-* the names and versions of your project's dependencies, their dependencies, and so on, that come from the npm public registry, [but not of other dependencies, like Git dependencies](https://docs.npmjs.com/cli/audit)
+*   the names and versions of your project's dependencies, their dependencies, and so on, that come from the npm public registry, [but not of other dependencies, like Git dependencies](https://docs.npmjs.com/cli/audit)
     
-* the versions of Node.js, the npm command, and the operating system you are using
+*   the versions of Node.js, the npm command, and the operating system you are using
     
-* an `npm-in-ci` header, showing whether the command was run on a continuous integration server
+*   an `npm-in-ci` header, showing whether the command was run on a continuous integration server
     
-* the scope of the package for which you ran `npm install`, as an `npm-scope` header
+*   the scope of the package for which you ran `npm install`, as an `npm-scope` header
     
-* a `referrer` header that shows the command you ran, with any file or directory paths redacted
+*   a `referrer` header that shows the command you ran, with any file or directory paths redacted
     
-* data about the software you're using to access the registry, such as the `User-Agent` string
+*   data about the software you're using to access the registry, such as the `User-Agent` string
     
-* network request data, such as the date and time, your IP address, and the URL
+*   network request data, such as the date and time, your IP address, and the URL
     
 
 npm uses this data to:
 
-* fulfill your requests, such as by sending the packages you ask for
+*   fulfill your requests, such as by sending the packages you ask for
     
-* send you alerts about security vulnerabilities that may affect the software you're building, when you run `npm install` or `npm audit`
+*   send you alerts about security vulnerabilities that may affect the software you're building, when you run `npm install` or `npm audit`
     
-* keep registries working quickly and reliably
+*   keep registries working quickly and reliably
     
-* debug and develop the `npm` command and other software
+*   debug and develop the `npm` command and other software
     
-* defend registries from abuse and technical attacks
+*   defend registries from abuse and technical attacks
     
-* compile statistics on package usage and popularity
+*   compile statistics on package usage and popularity
     
-* prepare reports on trends in the developer community
+*   prepare reports on trends in the developer community
     
-* improve search results on the website
+*   improve search results on the website
     
-* recommend packages that may be relevant to your work
+*   recommend packages that may be relevant to your work
     
 
 [npm collects data about how you use the website](#npm-collects-data-about-how-you-use-the-website)
@@ -89,32 +89,32 @@ npm uses this data to:
 
 When you visit [www.npmjs.com](https://www.npmjs.com/), [docs.npmjs.com](https://docs.npmjs.com/), and other npm websites, npm uses cookies, server logs, and other methods to collect data about what pages you visit, and when. npm also collects technical information about the software and computer you use, such as:
 
-* your IP address
+*   your IP address
     
-* your preferred language
+*   your preferred language
     
-* the web browser software you use
+*   the web browser software you use
     
-* the kind of computer you use
+*   the kind of computer you use
     
-* the website that referred you
+*   the website that referred you
     
 
 npm uses data about how you use the website to:
 
-* optimize the website, so that it's quick and easy to use
+*   optimize the website, so that it's quick and easy to use
     
-* diagnose and debug technical errors
+*   diagnose and debug technical errors
     
-* defend the website from abuse and technical attacks
+*   defend the website from abuse and technical attacks
     
-* compile statistics on package popularity
+*   compile statistics on package popularity
     
-* compile statistics on the kinds of software and computers visitors use
+*   compile statistics on the kinds of software and computers visitors use
     
-* compile statistics on visitor searches and needs, to guide development of new website pages and functionality
+*   compile statistics on visitor searches and needs, to guide development of new website pages and functionality
     
-* decide who to contact about about product announcements, service changes, and new features
+*   decide who to contact about about product announcements, service changes, and new features
     
 
 [npm collects account data](#npm-collects-account-data)
@@ -132,23 +132,23 @@ If you give npm a personal name or names on social media like [GitHub](https://g
 
 npm uses your email to:
 
-* notify you about packages published using your account
+*   notify you about packages published using your account
     
-* reset your password and help keep your account secure
+*   reset your password and help keep your account secure
     
-* add metadata to packages that you publish
+*   add metadata to packages that you publish
     
-* contact you in special circumstances related to your account or packages
+*   contact you in special circumstances related to your account or packages
     
-* contact you about support requests
+*   contact you about support requests
     
-* contact you about legal requests, like DMCA takedown requests and privacy complaints
+*   contact you about legal requests, like DMCA takedown requests and privacy complaints
     
-* announce new npm product offerings, service changes, and features
+*   announce new npm product offerings, service changes, and features
     
-* send you tips about how to better use free and paid services
+*   send you tips about how to better use free and paid services
     
-* send you messages about paid services you might want
+*   send you messages about paid services you might want
     
 
 [npm collects package data](#npm-collects-package-data)
@@ -158,9 +158,9 @@ When you use npm publish or other software to publish packages to the npm public
 
 npm uses data in packages to provide those packages to you and others who request them:
 
-* When you publish a package to the npm public registry, or change a package from private to public, npm makes the package and metadata available to everyone, online.
+*   When you publish a package to the npm public registry, or change a package from private to public, npm makes the package and metadata available to everyone, online.
     
-* When you publish a package to an Enterprise registry that npm hosts, or as a private package, npm makes all of that data available to other users according to how the registry or the private packages account is configured. You may be able to configure who can access the package, or that may be up to others, such as the administrator of your company's Enterprise registry.
+*   When you publish a package to an Enterprise registry that npm hosts, or as a private package, npm makes all of that data available to other users according to how the registry or the private packages account is configured. You may be able to configure who can access the package, or that may be up to others, such as the administrator of your company's Enterprise registry.
     
 
 Making package data available to others allows them to download, build on, and depend on your work.
@@ -181,15 +181,15 @@ npm collects data about you when you send npm support requests, legal complaints
 
 npm uses contact data to:
 
-* respond to you
+*   respond to you
     
-* compile aggregate statistics about correspondence
+*   compile aggregate statistics about correspondence
     
-* train support staff and other npm personnel
+*   train support staff and other npm personnel
     
-* review the performance of npm personnel who respond
+*   review the performance of npm personnel who respond
     
-* defend npm from legal claims
+*   defend npm from legal claims
     
 
 [npm collects data about use of npm.community](#npm-collects-data-about-use-of-npmcommunity)
@@ -208,19 +208,19 @@ npm publishes posts and other content you submit to [npm.community](https://npm.
 
 npm does not sell information about you to others. However, npm uses services provided by other companies to provide npm services. The types of service providers that npm uses include:
 
-* Companies that enable us to offer features on our website, such as to display your avatar
+*   Companies that enable us to offer features on our website, such as to display your avatar
     
-* Companies that facilitate the efficient distribution of content
+*   Companies that facilitate the efficient distribution of content
     
-* Cloud computing platforms and services that host our discussion forums
+*   Cloud computing platforms and services that host our discussion forums
     
-* Services that assist with the detection of spam, scams, abuse others, or other violations of our [terms of service](https://docs.npmjs.com/policies/open-source-terms)
+*   Services that assist with the detection of spam, scams, abuse others, or other violations of our [terms of service](https://docs.npmjs.com/policies/open-source-terms)
     
-* Payment processors
+*   Payment processors
     
-* Platforms to help us receive, manage, and respond to support requests
+*   Platforms to help us receive, manage, and respond to support requests
     
-* Platforms for internal communication
+*   Platforms for internal communication
     
 
 [npm uses cookies](#npm-uses-cookies)
@@ -235,7 +235,7 @@ By using the website, you agree that we can place these types of cookies on your
 
 You choose what data the npm publish command includes in package data. You can use an [.npmignore](https://docs.npmjs.com/files/package.json#files) file in your package to keep specific files out of the package. You can also use a [files list in package.json files](https://docs.npmjs.com/files/package.json#files) to instruct npm to include only specific files that you name, in addition to standard files like `README` files, `LICENSE` files, and package.json.
 
-To double check the data that you will share in a package that you plan to publish, run the `npm publish --dry-run` command. If you are running an older version of the npm command, run the npm pack command to create a [tarball](https://en.wikipedia.org/wiki/Tar_(computing)), then check its contents, such as with `tar tvzf $tarball`.
+To double check the data that you will share in a package that you plan to publish, run the `npm publish --dry-run` command. If you are running an older version of the npm command, run the npm pack command to create a [tarball](https://en.wikipedia.org/wiki/Tar_\(computing\)), then check its contents, such as with `tar tvzf $tarball`.
 
 To publish a package to the npm public registry, npm's terms of service require you to [license npm to share it](https://docs.npmjs.com/policies/open-source-terms#your-content). If a package is made public, it is available for everyone online to see. However, your [choice of public license for your package](https://docs.npmjs.com/files/package.json#license) may affect what others can do with data about you in your package.
 
@@ -257,15 +257,15 @@ npm respects privacy rights under [Regulation (EU) 2016/679](http://eur-lex.euro
 
 If you reside in the EEA, Switzerland, or United Kingdom, you are entitled to certain rights, like the right to:
 
-* complain about our data collection or processing actions with the supervisor authority concerned. You can find a list of data protection authorities [here](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
+*   complain about our data collection or processing actions with the supervisor authority concerned. You can find a list of data protection authorities [here](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
     
-* access to information held about you.
+*   access to information held about you.
     
-* ask us to correct or amend inaccurate or incomplete information we have about you.
+*   ask us to correct or amend inaccurate or incomplete information we have about you.
     
-* ask us to erase data that under certain circumstances, like (1) when it is no longer necessary for the purpose for which it was collected, (2) you withdraw consent and no other legal basis for processing exists, or (3) you believe your fundamental rights to data privacy and protection outweigh our legitimate interest in continuing the processing.
+*   ask us to erase data that under certain circumstances, like (1) when it is no longer necessary for the purpose for which it was collected, (2) you withdraw consent and no other legal basis for processing exists, or (3) you believe your fundamental rights to data privacy and protection outweigh our legitimate interest in continuing the processing.
     
-* request that we restrict our processing if we are processing your data based on legitimate interests or the performance of a task in the public interest as an exercise of official authority (including profiling); using your data for direct marketing (including profiling); or processing your data for purposes of scientific or historical research and statistics.
+*   request that we restrict our processing if we are processing your data based on legitimate interests or the performance of a task in the public interest as an exercise of official authority (including profiling); using your data for direct marketing (including profiling); or processing your data for purposes of scientific or historical research and statistics.
     
 
 When you exercise your rights, npm may need to verify your identity and provide us with information before we access records containing your information. If you want to exercise your rights, please contact npm by [opening a support ticket](https://npmjs.com/support). We may have a reason under the law why we do not have to comply with your request or may comply with it in a more limited way than you anticipated. If we do, we will explain that to you in our response.
@@ -277,21 +277,21 @@ npm respects the rights of California residents under the [California Consumer P
 
 Categories of personal information we collect:
 
-* _Personal Identifiers_:
+*   _Personal Identifiers_:
     
-    * Name and email address when you create an account. You will also be asked to create a username and we will assign one or more unique identifiers to your profile. We use this information to provide our services, respond to your requests, and send information to you.
+    *   Name and email address when you create an account. You will also be asked to create a username and we will assign one or more unique identifiers to your profile. We use this information to provide our services, respond to your requests, and send information to you.
         
-    * We also collect your social media handle and basic account information if you provide it to us or interact with our services, such as our help desk, through social media.
+    *   We also collect your social media handle and basic account information if you provide it to us or interact with our services, such as our help desk, through social media.
         
-    * We collect your payment information through our service provider, Stripe, as described above.
+    *   We collect your payment information through our service provider, Stripe, as described above.
         
-* _Internet or Other Electronic Network Activity Information_: device identifiers such as IP address and user agent; the assigned unique IDs in cookies (as described below); information about how you arrived at and navigated through our Services.
+*   _Internet or Other Electronic Network Activity Information_: device identifiers such as IP address and user agent; the assigned unique IDs in cookies (as described below); information about how you arrived at and navigated through our Services.
     
-* _Geolocation Data:_ We do not collect your specific longitude and latitude. However, we do collect imprecise location (e.g., your IP address).
+*   _Geolocation Data:_ We do not collect your specific longitude and latitude. However, we do collect imprecise location (e.g., your IP address).
     
-* _Professional or employment-related information:_ If you apply for employment with us, information about your employment history.
+*   _Professional or employment-related information:_ If you apply for employment with us, information about your employment history.
     
-* _Education information:_ If you apply for employment with us, information about your educational history.
+*   _Education information:_ If you apply for employment with us, information about your educational history.
     
 
 We may collect any other information about you contained in software packages uploaded to our site, as described above under the "npm collects package data" section. We also collect the contents of your communications with us, e.g., when you submit a question to us through a web form or comments to us on social media.
@@ -300,9 +300,9 @@ We may disclose any of the categories of personal information listed above and u
 
 Rights under CCPA:
 
-* _Access/Right to Know_: You have the right to request access to personal information we collected about you and information regarding the source of that personal information, the purposes for which we collect it, and the third parties and service providers with whom we share it.
+*   _Access/Right to Know_: You have the right to request access to personal information we collected about you and information regarding the source of that personal information, the purposes for which we collect it, and the third parties and service providers with whom we share it.
     
-* _Deletion_: You have the right to request that we erase data we have collected from you. Please note that we may have a reason to deny your deletion request or delete data in a more limited way than you anticipated, e.g., because of a legal obligation to retain it.
+*   _Deletion_: You have the right to request that we erase data we have collected from you. Please note that we may have a reason to deny your deletion request or delete data in a more limited way than you anticipated, e.g., because of a legal obligation to retain it.
     
 
 To exercise your rights above, you can [open a support ticket](https://npmjs.com/support). When we process your request, we must verify your identity by asking you to (1) provide personal identifiers that we can match against information we may have collected from you previously; and (2) confirm your request using the email stated in the request.
@@ -322,7 +322,7 @@ You can access your account data at any time by visiting your account page on [w
 
 You can access package data by downloading the packages, as long as they're public or you have permission to access them.
 
-You can see metadata about packages by running npm info $package, or by accessing the appropriate [registry's API](https://github.com/npm/registry/tree/master/docs). Registry APIs provide metadata in standard [JSON](https://www.json.org/) format, and packages as [tarballs](https://en.wikipedia.org/wiki/Tar_(computing)).
+You can see metadata about packages by running npm info $package, or by accessing the appropriate [registry's API](https://github.com/npm/registry/tree/master/docs). Registry APIs provide metadata in standard [JSON](https://www.json.org/) format, and packages as [tarballs](https://en.wikipedia.org/wiki/Tar_\(computing\)).
 
 [How can I change data about me?](#how-can-i-change-data-about-me)
 ------------------------------------------------------------------
@@ -349,9 +349,9 @@ If you accidentally publish a package that threatens your privacy, or discover s
 
 npm takes a few steps to notify others who may be copying data from the npm public registry that published data has been erased:
 
-* npm publishes new placeholder versions of some erased packages, with `README` files that mention the package has been erased, and why.
+*   npm publishes new placeholder versions of some erased packages, with `README` files that mention the package has been erased, and why.
     
-* npm's [registry APIs](https://github.com/npm/registry/tree/master/docs), special software services that others use to copy data from the npm public registry, send update messages about packages that have been erased.
+*   npm's [registry APIs](https://github.com/npm/registry/tree/master/docs), special software services that others use to copy data from the npm public registry, send update messages about packages that have been erased.
     
 
 [What happens if npm merges with or is bought by another company?](#what-happens-if-npm-merges-with-or-is-bought-by-another-company)
