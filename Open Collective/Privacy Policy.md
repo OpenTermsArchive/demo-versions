@@ -18,8 +18,8 @@ We collect information you provide directly to us. For example, we collect infor
 
 When you access or use our Services, we automatically collect information about you, including:
 
-* **Log Information:** We collect log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
-* **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, including cookies, local storage and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Local Storage similarly enables our Services to store data (like login tokens) securely in your browser and unlike cookies, it's not sent to the server on every request. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below.
+*   **Log Information:** We collect log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+*   **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, including cookies, local storage and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Local Storage similarly enables our Services to store data (like login tokens) securely in your browser and unlike cookies, it's not sent to the server on every request. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below.
 
 ### Information We Collect From Other Sources
 
@@ -29,29 +29,29 @@ We may also obtain information from other sources. For example, if you connect y
 
 We may use information about you for various purposes, including to:
 
-* Provide, maintain and improve our Services, and develop new products and services;
-* Provide and deliver the products and services you request,
-* Send you notices, updates, and support and administrative messages;
-* Communicate with you about products, services, offers, promotions, rewards, and events offered by Open Collective and others, and provide news and information we think will be of interest to you;
-* Monitor and analyze trends, usage and activities in connection with our Services;
-* Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Open Collective and others;
-* Personalize and improve the Services and provide, content or features that match user profiles or interests;
-* Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;
-* Link or combine with information we collect about you; and
-* Carry out any other purpose described to you at the time the information was collected.
+*   Provide, maintain and improve our Services, and develop new products and services;
+*   Provide and deliver the products and services you request,
+*   Send you notices, updates, and support and administrative messages;
+*   Communicate with you about products, services, offers, promotions, rewards, and events offered by Open Collective and others, and provide news and information we think will be of interest to you;
+*   Monitor and analyze trends, usage and activities in connection with our Services;
+*   Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Open Collective and others;
+*   Personalize and improve the Services and provide, content or features that match user profiles or interests;
+*   Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;
+*   Link or combine with information we collect about you; and
+*   Carry out any other purpose described to you at the time the information was collected.
 
 ### Sharing of Information
 
 We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-* With hosts and organizers of a collective, if you are a contributor, or request reimbursement for expenses made in support, of that collective
-* We will share your name and image with GitHub if you participate in a collective that is also working on a software project through GitHub.
-* With vendors, consultants and other service providers who need access to such information to carry out work on our behalf. If you submit a request to us, we will provide you with a list of the third-party service providers with which we have shared information about you for the 12 months prior to your request;
-* In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
-* If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Open Collective or others;
-* In connection with, or during negotiations of, any merger, sale of Open Collective assets, financing or acquisition of all or a portion of our business by another Open Collective;
-* With your consent or at your direction.
-* We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+*   With hosts and organizers of a collective, if you are a contributor, or request reimbursement for expenses made in support, of that collective
+*   We will share your name and image with GitHub if you participate in a collective that is also working on a software project through GitHub.
+*   With vendors, consultants and other service providers who need access to such information to carry out work on our behalf. If you submit a request to us, we will provide you with a list of the third-party service providers with which we have shared information about you for the 12 months prior to your request;
+*   In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
+*   If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Open Collective or others;
+*   In connection with, or during negotiations of, any merger, sale of Open Collective assets, financing or acquisition of all or a portion of our business by another Open Collective;
+*   With your consent or at your direction.
+*   We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
 Objections, Right To Be Forgotten, and Data Removal
 ---------------------------------------------------
