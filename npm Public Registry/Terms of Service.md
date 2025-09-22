@@ -15,7 +15,7 @@ npm last updated these npm Open Source Terms on March 10, 2022. You can review p
 
 npm offers additional, paid services (_Paid Services_) that are subject to additional terms:
 
-* Additional terms for npm Paid Services are available at [https://docs.npmjs.com/policies/private-terms](https://docs.npmjs.com/policies/private-terms).
+*   Additional terms for npm Paid Services are available at [https://docs.npmjs.com/policies/private-terms](https://docs.npmjs.com/policies/private-terms).
 
 npm Open Source and any Paid Services you may agree to use are together called _npm Services_ throughout these Terms.
 
@@ -49,15 +49,15 @@ Subject to these Terms, npm grants you permission to use npm Open Source. That p
 
 Your permission to use npm Open Source entitles you to do the following:
 
-1. You may search for, download, publish, and manage packages of computer code (_Packages_) in the Public Registry, and otherwise interact with the Public Registry, via the command-line tool published by npm at [https://www.github.com/npm/cli](https://www.github.com/npm/cli) (the _CLI_).
+1.  You may search for, download, publish, and manage packages of computer code (_Packages_) in the Public Registry, and otherwise interact with the Public Registry, via the command-line tool published by npm at [https://www.github.com/npm/cli](https://www.github.com/npm/cli) (the _CLI_).
     
-2. You may search for, download, publish, and manage Packages using software other than CLI via application programming interfaces that npm publicly documents or makes available for public use (_Public APIs_).
+2.  You may search for, download, publish, and manage Packages using software other than CLI via application programming interfaces that npm publicly documents or makes available for public use (_Public APIs_).
     
-3. You may search for and manage Packages in the Public Registry, and otherwise interact with the Public Registry, via the Website.
+3.  You may search for and manage Packages in the Public Registry, and otherwise interact with the Public Registry, via the Website.
     
-4. You may update and manage your Account via the Website.
+4.  You may update and manage your Account via the Website.
     
-5. You may visit, create an account for, and participate in, discussions on npm.community.
+5.  You may visit, create an account for, and participate in, discussions on npm.community.
     
 
 [Conditions](#conditions)
@@ -65,69 +65,69 @@ Your permission to use npm Open Source entitles you to do the following:
 
 Your permission to use npm Open Source, as well as any permission you may have to use Paid Services, are subject to the following conditions:
 
-1. You must be at least 13 years of age to use npm Services.
+1.  You must be at least 13 years of age to use npm Services.
     
-2. You may not use npm Services after npm says you may not, such as by disabling your Account.
+2.  You may not use npm Services after npm says you may not, such as by disabling your Account.
     
-3. You must use npm Services only in accordance with "Acceptable Use".
+3.  You must use npm Services only in accordance with "Acceptable Use".
     
-4. You may access and use data about the security of Packages, such as vulnerability reports, audit status reports, and supplementary security documentation, only for your own personal or internal business purposes. You may _not_ provide others access to, copies of, or use of npm data about the security of Packages, directly or as part of other products or services.
+4.  You may access and use data about the security of Packages, such as vulnerability reports, audit status reports, and supplementary security documentation, only for your own personal or internal business purposes. You may _not_ provide others access to, copies of, or use of npm data about the security of Packages, directly or as part of other products or services.
     
 
 [Acceptable Use](#acceptable-use)
 ---------------------------------
 
-1. You will abide by the [Code of Conduct](https://docs.npmjs.com/policies/conduct) and the [Dispute Policy](https://docs.npmjs.com/policies/disputes).
+1.  You will abide by the [Code of Conduct](https://docs.npmjs.com/policies/conduct) and the [Dispute Policy](https://docs.npmjs.com/policies/disputes).
     
-2. You will not submit material to npm as a package or in any other form that violates npm's _Acceptable Content_, described below.
+2.  You will not submit material to npm as a package or in any other form that violates npm's _Acceptable Content_, described below.
     
-3. You will not disclose information that you do not have the right to disclose, such as confidential information of others.
+3.  You will not disclose information that you do not have the right to disclose, such as confidential information of others.
     
-4. You will not copy or share any personally identifiable information of any other person without their specific permission.
+4.  You will not copy or share any personally identifiable information of any other person without their specific permission.
     
-5. You will not violate any applicable law.
+5.  You will not violate any applicable law.
     
-6. You will not use or attempt to use another person's Account without their specific permission.
+6.  You will not use or attempt to use another person's Account without their specific permission.
     
-7. You will not buy, sell, or otherwise trade in user names, organization names, names for _Packages_, or any other names reserved on _npm Services_, for money or other compensation.
+7.  You will not buy, sell, or otherwise trade in user names, organization names, names for _Packages_, or any other names reserved on _npm Services_, for money or other compensation.
     
-8. You will not use _npm Services_' ability to send e-mail to send advertisements, chain letters, or other solicitations.
+8.  You will not use _npm Services_' ability to send e-mail to send advertisements, chain letters, or other solicitations.
     
-9. You will not automate access to, use, or monitor the Website, such as with a web crawler, browser plug-in or add-on, or other computer program that is not a web browser. You may replicate data from the Public Registry using the Public APIs per this Agreement.
+9.  You will not automate access to, use, or monitor the Website, such as with a web crawler, browser plug-in or add-on, or other computer program that is not a web browser. You may replicate data from the Public Registry using the Public APIs per this Agreement.
     
-10. You will not use npm Services to send email to distribution lists, newsgroups, or group mail aliases.
-    
-11. You will not falsely imply that you are affiliated with or endorsed by npm.
-    
-12. You will not operate illegal schemes, such as pyramid schemes, via npm Services.
-    
-13. You will not deep-hyperlink to images or other non-hypertext content served by npm Services.
-    
-14. You will not remove any marking indicating proprietary ownership from any material got via npm Services.
-    
-15. You will not display any portion of the Website via an HTML IFRAME.
-    
-16. You will not disable, avoid, or circumvent any security or access restrictions of npm Services, or access parts of npm Services not intended for access by you.
-    
-17. You will not strain infrastructure of npm Services with an unreasonable volume of requests, or requests designed to impose an unreasonable load on IT systems underlying npm Services. This rule is intentionally loose, to give npm the flexibility it needs to keep npm Services working for the user community as a whole. But to draw one clear line, under no circumstances are five million requests to npm Services in a single month-long period by any single individual, organization, or group of affiliated companies remotely reasonable. If you have a special need to make lots and lots of requests, [our sales team](mailto:sales@npmjs.com) can help.
-    
-18. You will not encourage or assist any other person in violation of "Acceptable Use".
-    
+10.  You will not use npm Services to send email to distribution lists, newsgroups, or group mail aliases.
+     
+11.  You will not falsely imply that you are affiliated with or endorsed by npm.
+     
+12.  You will not operate illegal schemes, such as pyramid schemes, via npm Services.
+     
+13.  You will not deep-hyperlink to images or other non-hypertext content served by npm Services.
+     
+14.  You will not remove any marking indicating proprietary ownership from any material got via npm Services.
+     
+15.  You will not display any portion of the Website via an HTML IFRAME.
+     
+16.  You will not disable, avoid, or circumvent any security or access restrictions of npm Services, or access parts of npm Services not intended for access by you.
+     
+17.  You will not strain infrastructure of npm Services with an unreasonable volume of requests, or requests designed to impose an unreasonable load on IT systems underlying npm Services. This rule is intentionally loose, to give npm the flexibility it needs to keep npm Services working for the user community as a whole. But to draw one clear line, under no circumstances are five million requests to npm Services in a single month-long period by any single individual, organization, or group of affiliated companies remotely reasonable. If you have a special need to make lots and lots of requests, [our sales team](mailto:sales@npmjs.com) can help.
+     
+18.  You will not encourage or assist any other person in violation of "Acceptable Use".
+     
 
 [Acceptable Content](#acceptable-content)
 -----------------------------------------
 
 Administrators at npm reserve the right to delete content hosted on the npm Services that they deem unacceptable. Unacceptable content can take the form of a package, a README file, a user or organization name, or any other content submitted to npm Services. A few examples of unacceptable content:
 
-1. Content that is illegal, offensive, or otherwise harmful. This includes content that is harassing, inappropriate, or abusive.
+1.  Content that is illegal, offensive, or otherwise harmful. This includes content that is harassing, inappropriate, or abusive.
     
-2. Content in violation of law, infringing the intellectual property rights of others, violating the privacy or other rights of others, or in violation of any agreement with a third party. This includes code that violates a public license for others' work.
+2.  Content in violation of law, infringing the intellectual property rights of others, violating the privacy or other rights of others, or in violation of any agreement with a third party. This includes code that violates a public license for others' work.
     
-3. Content containing malicious computer code, such as computer viruses, computer worms, rootkits, back doors, or spyware. This includes content submitted for research purposes. Tools designed and documented explicitly to assist in security research are acceptable, but exploits and malware that use the npm registry as a deployment or delivery vector are not.
+3.  Content containing malicious computer code, such as computer viruses, computer worms, rootkits, back doors, or spyware. This includes content submitted for research purposes. Tools designed and documented explicitly to assist in security research are acceptable, but exploits and malware that use the npm registry as a deployment or delivery vector are not.
     
-4. Packages that are not functionally compatible with the npm command-line client. For example, a "package" cannot simply be a PNG or JPEG image, a movie file, or a text document uploaded directly to the registry. Using the Public Registry as a general purpose database is not allowed.
+4.  Packages that are not functionally compatible with the npm command-line client. For example, a "package" cannot simply be a PNG or JPEG image, a movie file, or a text document uploaded directly to the registry. Using the Public Registry as a general purpose database is not allowed.
     
-5. Content that exists only to "reserve" a name, whether a package name, user name, or organization name. The [Dispute Policy](https://docs.npmjs.com/policies/disputes) governs how npm handles such cases of "squatting".
+5.  Content that exists only to "reserve" a name, whether a package name, user name, or organization name. The [Dispute Policy](https://docs.npmjs.com/policies/disputes) governs how npm handles such cases of "squatting".
     
 
 To find out how to report violations of Acceptable Content, refer to the [Code of Conduct](https://docs.npmjs.com/policies/conduct).
@@ -143,22 +143,22 @@ That communication is important, and welcome, so long as it respects that the np
 
 These kinds of commercial content are generally acceptable in `README` files and other documentation:
 
-1. Credits, acknowledgments, attributions, and other recognitions of contributions to Packages.
+1.  Credits, acknowledgments, attributions, and other recognitions of contributions to Packages.
     
-2. Information on how to pay, donate to, and otherwise support Package development, Package developers, and Package steward organizations.
+2.  Information on how to pay, donate to, and otherwise support Package development, Package developers, and Package steward organizations.
     
-3. Logos from, and links to, organizations developing, stewarding, or sponsoring Package development.
+3.  Logos from, and links to, organizations developing, stewarding, or sponsoring Package development.
     
-4. Information on paid products and services related to Packages, such as enhanced versions, add-ons, commercial license terms, training, integration, or support.
+4.  Information on paid products and services related to Packages, such as enhanced versions, add-ons, commercial license terms, training, integration, or support.
     
 
 These kinds of commercial content generally _aren't_ acceptable:
 
-1. `README`, `package.json`, or other content displaying advertisements.
+1.  `README`, `package.json`, or other content displaying advertisements.
     
-2. Packages that display ads at runtime, on installation, or at other stages of the software development lifecycle, such as via [npm scripts](https://docs.npmjs.com/misc/scripts). Packages with code that can be used to display ads are fine. Packages that themselves display ads are not.
+2.  Packages that display ads at runtime, on installation, or at other stages of the software development lifecycle, such as via [npm scripts](https://docs.npmjs.com/misc/scripts). Packages with code that can be used to display ads are fine. Packages that themselves display ads are not.
     
-3. Packages that function primarily as ads, with only placeholder or negligible code, data, and other technical content.
+3.  Packages that function primarily as ads, with only placeholder or negligible code, data, and other technical content.
     
 
 These examples are just examples. npm will continue to apply its judgment when deciding what content is acceptable. npm will continue to expect you to apply your own judgment when choosing what you share and how.
