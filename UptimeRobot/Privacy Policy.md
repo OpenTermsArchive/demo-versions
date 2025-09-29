@@ -11,6 +11,8 @@ This Privacy Policy applies to information that we collect about you when you us
 *   Our website uptimerobot.com;
 *   Our mobile applications (including the UptimeRobot mobile app for Android and iOS);
 
+For users who qualify as data controllers, or who require specific data processing terms, a separate GDPR-compliant Data Processing Agreement (“DPA”) is available upon request and forms part of your contractual relationship with UptimeRobot.
+
 Throughout this Privacy Policy, we’ll refer to our website, mobile applications and other products and services collectively as “Services.”
 
 Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.
@@ -174,8 +176,11 @@ Privacy Policy Changes
 
 Although most changes are likely to be minor, UptimeRobot may change its Privacy Policy from time to time, and in UptimeRobot's sole discretion. UptimeRobot encourages visitors to frequently check this page for any changes to its Privacy Policy.
 
+When making material changes to this Privacy Policy, we will provide advance notice to these material changes taking effect. Notification will be provided via website banner/notification, platform pop-up upon login, and direct email for active paying users. Non-material changes will be documented in the change log at the end of this Privacy Policy.
+
 **Change log:**
 
+*   _September 23, 2025:_ Added Data Processing Agreement and updated Privacy Policy Changes.
 *   _August 15, 2023:_ Updated list of sub-processors.
 *   _July 27, 2023:_ Updated list of sub-processors.
 *   _June 6, 2022:_ Updated list of sub-processors.
