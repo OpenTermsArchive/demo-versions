@@ -274,13 +274,110 @@ If a user asks to change their information, we can do so within our admin portal
 
 We have created a legal agreement that users and external parties can receive from us, promising the protection all personally identifiable information that we collect and store. [See the full agreement](https://dochub.com/buffer/Xv7zYW5RnzkbEZR2A9egxG/buffer-data-processing-addendum).
 
-### Cookie Statement
+### Use of Cookies and Similar Technology
 
-Like many websites, we also use “cookie” technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer’s hard disk. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. Buffer may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Service.
+At Buffer, we use cookies and similar technologies to help make our website and app work better for you. These small tools allow us to remember your preferences, keep your account secure, understand how our services are used, and improve the way we communicate with you.
 
-We may also automatically record certain information from your device by using various types of technology, including “clear gifs” or “web beacons.” This automatically collected information may include your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Service, the pages or other content you view or otherwise interact with on the Service, and the dates and times that you visit, access, or use the Service. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message, to the extent permitted under applicable law.
+Like many websites, we use “cookie” technology to collect additional website usage data and enhance the functionality and performance of our site and services.
 
-You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential.
+You’re always in control of your choices. This section explains what cookies are, how we use them, and how you can manage your preferences.
+
+#### What Are Cookies and Similar Technologies?
+
+*   **Cookies** are small text files stored on your device when you visit a website.
+*   A **session cookie** enables certain features of the site and is deleted when you close your browser.
+*   A **persistent cookie** remains after you close your browser and may be used during future visits. Persistent cookies can be removed by following your browser’s help instructions.
+*   **Clear gifs, web beacons, pixels, and tags** are small pieces of code that allow us to track usage patterns, measure website performance, and understand email interactions.
+*   **Local storage** helps us remember your preferences and settings across sessions.
+
+Some of these technologies are set directly by Buffer (first-party cookies), while others come from trusted partners (third-party cookies). Most browsers automatically accept cookies, but you can modify your settings to stop accepting them or to prompt you before accepting a cookie.
+
+#### How Long Cookies Last
+
+*   Session cookies last only until you close your browser.
+*   Persistent cookies remain for a longer period, ranging from a few days to several years depending on their purpose, unless you delete them sooner.
+
+#### How We Use Cookies
+
+We use cookies and similar technologies for several purposes:
+
+|     |     |     |     |
+| --- | --- | --- | --- |How We Use Cookies
+| Category | Purpose | Examples | Can you disable it? |
+| --- | --- | --- | --- |
+| Strictly necessary | Enable core functions like signing in, account security, and saving your privacy settings. These cookies are essential and cannot be disabled. | Session cookies, authentication cookies, consent cookies | No  |
+| Performance & Analytics | Help us understand how visitors use our website and app so we can improve navigation, content, and overall performance. | Google Analytics (traffic), Mixpanel (feature usage) | Yes |
+| Functional | Remember preferences and settings to create a more personalised experience. | Language preference, saved drafts | Yes |
+| Advertisement | Deliver relevant ads, measure campaign effectiveness, and avoid showing the same ad repeatedly. | Meta Pixel, Google Ads | Yes |
+
+#### Information We Collect Automatically
+
+We may automatically record certain information from your device using cookies, clear gifs, and similar technologies. This can include:
+
+*   IP address or other device identifiers
+*   Browser and device type
+*   Pages you visited before or after using Buffer
+*   The content you view or interact with on our site
+*   Date and time of visits
+*   Interactions with our emails (e.g., whether you opened or clicked on them)
+
+This information helps us better understand how you interact with our services, monitor usage and traffic patterns, and improve Buffer overall.
+
+We only use cookies for the purposes described in this policy, and we do not combine cookie-derived data with other personal information unless necessary for security, analytics, or advertising purposes disclosed here.
+
+#### Third-Party Cookies and Technologies
+
+Some cookies and technologies are placed by third parties acting on our behalf, such as analytics or advertising partners. These providers may use their own cookies to understand how you use our services or to display relevant ads on other websites.
+
+We currently use, among others:
+
+*   Google Analytics – [Policy](https://policies.google.com/technologies/cookies)
+*   Meta (Facebook) Pixel – [Policy](https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0)
+*   Microsoft Clarity – [Policy](https://www.microsoft.com/en-us/privacy)
+*   Segment – [Policy](https://www.twilio.com/en-us/legal/privacy)
+*   CookieYes CMP (for managing consent) – [Policy](https://www.cookieyes.com/privacy-policy/)
+
+This list may change as we add or remove services.
+
+When we use third-party services located outside your region (for example, in the United States), data collected through cookies may be transferred internationally. Where applicable, we rely on approved transfer mechanisms such as Standard Contractual Clauses (SCCs) or equivalent safeguards to protect that data.
+
+#### Managing Your Cookie Preferences
+
+You can control how cookies are used in a few ways:
+
+*   **On our site**: Use the cookie banner (shown on each page) to set or update your preferences at any time.
+    *   **In your browser**: Most browsers let you block or delete cookies. See instructions for [Chrome](https://support.google.com/chrome/answer/95647), [Firefox](https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer), [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac), and [Edge](https://support.microsoft.com/help/4027947).
+*   **Through third-party tools**: For advertising cookies, you can also use [Google Ads Settings](https://adssettings.google.com/) or the [Network Advertising Initiative opt-out](https://optout.networkadvertising.org/) to manage your choices.
+
+We use our consent management platform (CookieYes) to store and document your cookie consent choices as required under GDPR Article 7(1). You can view or update your consent preferences at any time through the cookie banner loaded on each page.
+
+If you delete or choose not to accept cookies from Buffer, some features of our services may not function properly.
+
+#### Legal Basis for Using Cookies
+
+For visitors in the **European Economic Area (EEA), United Kingdom, and Switzerland**:
+
+We rely on consent for any cookies that are not strictly necessary. You can give or withdraw consent at any time through the cookie banner or preferences tool. We only place non-essential cookies after obtaining your consent.
+
+For visitors in **California (CCPA/CPRA)**:
+
+Under California law, some cookies may be considered a “sale” or “sharing” of personal information for cross-context behavioural advertising. You can opt out at any time by adjusting your cookie preferences or using the “Do Not Sell or Share My Personal Information” link in the footer.
+
+We do not use cookies for automated decision-making or profiling that produces legal or similarly significant effects on you.
+
+#### Where This Cookie Policy Applies
+
+This Cookie Policy applies to **buffer.com and all related subdomains** operated by Buffer, including but not limited to publish.buffer.com, support.buffer.com, and other subdomains where Buffer provides services or content.
+
+#### Updates to This Policy
+
+We may update this policy if we change the way we use cookies and similar technologies. When we do, we’ll post the updated version here and update the “last updated” date below.
+
+**Last updated**: October 7, 2025
+
+#### Contact Us
+
+If you have questions about this Cookie Policy or how we use cookies and similar technologies, please contact us at: hello@buffer.com
 
 ### Dispute Resolution Process
 
