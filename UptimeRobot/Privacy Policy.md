@@ -154,7 +154,8 @@ UptimeRobot uses the following products/services (which are all GDPR compliant):
 *   **Google BigQuery:** for business analysis and analyzing the browsing behavior of our users and visitors.
 *   **Google Fonts:** for loading a custom fonts.
 *   **Rollbar:** for loggin errors and bugs.
-*   **User.com:** for CRM service, customer support, online chat, behavioral messages and updates about product.
+*   **User.com:** for CRM service, behavioral messages and updates about product.
+*   **Intercom.com:** for CRM service, customer support, online chat, behavioral messages and updates about product.
 *   **Sendgrid.com:** for sending emails, e.g. account related, occasional deal offers, etc.
 *   **Google Ads:** for auto-pausing Google ads during downtimes and for ads targeting.
 *   **Facebook Ads:** for auto-pausing Facebook ads during downtimes.
@@ -180,6 +181,7 @@ When making material changes to this Privacy Policy, we will provide advance not
 
 **Change log:**
 
+*   _January 8, 2026:_ Added Intercom to the list of sub-processors.
 *   _September 23, 2025:_ Added Data Processing Agreement and updated Privacy Policy Changes.
 *   _August 15, 2023:_ Updated list of sub-processors.
 *   _July 27, 2023:_ Updated list of sub-processors.
