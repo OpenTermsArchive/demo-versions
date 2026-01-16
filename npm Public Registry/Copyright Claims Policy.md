@@ -7,7 +7,7 @@ npm follows GitHub's [Copyright - DMCA Takedown Policy](https://docs.github.com/
 
 If you are ready to submit a DMCA takedown notice, the fastest way to get a response is to enter your information and answer all the questions on GitHub's [Copyright claims form](https://github.com/contact/dmca). Be sure to select the option indicating that your claim involves content on npm.js.
 
-You can also send an email notification to [copyright@github.com](mailto:copyright@github.com). You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
+You can also send an email notification to copyright@github.com. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 
 If you must send your notice by physical mail, you can do that too, but it will take substantially longer for us to receive and respond to it. Notices we receive via plain-text email have a much faster turnaround than PDF attachments or physical mail. If you still wish to mail us your notice, GitHub's physical address is:
 
