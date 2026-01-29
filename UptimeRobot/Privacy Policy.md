@@ -1,7 +1,7 @@
 Privacy policy.
 ===============
 
-UptimeRobot (a service by Uptime Robot s. r. o.) operates several websites including [uptimerobot.com](https://uptimerobot.com/), [uptimerobot.com/api](https://uptimerobot.com/api) and [blog.uptimerobot.com](https://blog.uptimerobot.com/). It is UptimeRobot's policy to respect your privacy regarding any information we may collect while operating our websites.
+UptimeRobot (a service by Uptime Robot s. r. o.) operates several websites including [uptimerobot.com](https://uptimerobot.com/), [uptimerobot.com/api](http://uptimerobot.com/api) and [blog.uptimerobot.com](https://blog.uptimerobot.com/). It is UptimeRobot's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 What This Policy Covers
 -----------------------
