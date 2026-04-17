@@ -1,7 +1,7 @@
 Privacy policy.
 ===============
 
-UptimeRobot (a service by Uptime Robot s. r. o.) operates several websites including [uptimerobot.com](https://uptimerobot.com/), [uptimerobot.com/api](http://uptimerobot.com/api) and [blog.uptimerobot.com](https://blog.uptimerobot.com/). It is UptimeRobot's policy to respect your privacy regarding any information we may collect while operating our websites.
+UptimeRobot (a service by UptimeRobot s. r. o.) operates several websites including [uptimerobot.com](https://uptimerobot.com/), [uptimerobot.com/api](http://uptimerobot.com/api) and [blog.uptimerobot.com](https://blog.uptimerobot.com/). It is UptimeRobot's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 What This Policy Covers
 -----------------------
@@ -153,7 +153,7 @@ UptimeRobot uses the following products/services (which are all GDPR compliant):
 *   **Google Analytics (Universal Analytics and/or Google Analytics 4):** for analyzing the browsing behavior of our users and visitors.
 *   **Google BigQuery:** for business analysis and analyzing the browsing behavior of our users and visitors.
 *   **Google Fonts:** for loading a custom fonts.
-*   **Rollbar:** for loggin errors and bugs.
+*   **Sentry:** for logging errors and bugs.
 *   **User.com:** for CRM service, behavioral messages and updates about product.
 *   **Intercom.com:** for CRM service, customer support, online chat, behavioral messages and updates about product.
 *   **Sendgrid.com:** for sending emails, e.g. account related, occasional deal offers, etc.
@@ -181,6 +181,7 @@ When making material changes to this Privacy Policy, we will provide advance not
 
 **Change log:**
 
+*   _April 16, 2026:_ Replaced Rollbar with Sentry in the list of sub-processors.
 *   _January 8, 2026:_ Added Intercom to the list of sub-processors.
 *   _September 23, 2025:_ Added Data Processing Agreement and updated Privacy Policy Changes.
 *   _August 15, 2023:_ Updated list of sub-processors.
