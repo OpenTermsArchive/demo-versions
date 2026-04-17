@@ -1,7 +1,7 @@
 Terms of service.
 =================
 
-The following terms and conditions govern all use of the UptimeRobot products (Web App and iOS/Android mobile apps) and all content, services and products available at or through the website or mobile apps. The products are owned and operated by Uptime Robot s. r. o. ("UptimeRobot" -a trademark of the company-). The products are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation [UptimeRobot's Privacy Policy](https://uptimerobot.com/privacy)) and procedures that may be published from time to time on this Site by UptimeRobot (collectively, the "Agreement").
+The following terms and conditions govern all use of the UptimeRobot products (Web App and iOS/Android mobile apps) and all content, services and products available at or through the website or mobile apps. The products are owned and operated by UptimeRobot s. r. o. ("UptimeRobot" -a trademark of the company-). The products are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation [UptimeRobot's Privacy Policy](https://uptimerobot.com/privacy)) and procedures that may be published from time to time on this Site by UptimeRobot (collectively, the "Agreement").
 
 Please read this Agreement carefully before accessing or using the products. By accessing or using any part of the products, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access the products or use any services. If these terms and conditions are considered an offer by UptimeRobot, acceptance is expressly limited to these terms.
 
@@ -175,7 +175,7 @@ Content of Terms
 
 **This service is provided by:**
 
-Uptime Robot s. r. o.  
+UptimeRobot s. r. o.  
 Obchodná 507/2, Bratislava – mestská časť Staré Mesto, 811 06, Slovak Republic,  
 Registered in the Commercial Register maintained by the Municipal Court Bratislava III,  
 Section: Sro, Insert No.: 177536/B (No: C 76087)  
