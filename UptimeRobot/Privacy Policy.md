@@ -11,7 +11,7 @@ This Privacy Policy applies to information that we collect about you when you us
 *   Our website uptimerobot.com;
 *   Our mobile applications (including the UptimeRobot mobile app for Android and iOS);
 
-For users who qualify as data controllers, or who require specific data processing terms, a separate GDPR-compliant Data Processing Agreement (“DPA”) is available upon request and forms part of your contractual relationship with UptimeRobot.
+For users who qualify as data controllers, or who require specific data processing terms, a separate GDPR-compliant [Data Processing Agreement (“DPA”)](https://uptimerobot.com/dpa/) is available upon request and forms part of your contractual relationship with UptimeRobot.
 
 Throughout this Privacy Policy, we’ll refer to our website, mobile applications and other products and services collectively as “Services.”
 
@@ -140,7 +140,7 @@ Other parties may also provide analytics services via our Services. These analyt
 
 #### List of Sub-processors
 
-UptimeRobot uses the following products/services (which are all GDPR compliant):
+UptimeRobot uses the following products/services (which are all [GDPR compliant](https://uptimerobot.com/dpa/)):
 
 *   **Limestone Networks:** for sending monitoring requests and storing data.
 *   **Amazon Web Services:** for sending monitoring requests and storing data.
