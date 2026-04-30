@@ -1,7 +1,7 @@
 Open Collective Privacy Policy
 ==============================
 
-**Last Updated: November 13th 2025**
+**Last Updated: April 1st 2026**
 
 This **Privacy Policy** apply to your access to and use of the **Open Collective Platform**, accessible through **opencollective.com** and related domains, as well as other websites, applications, and online services (collectively, "**the Platform**" or "**the Services**"). The Platform is provided and operated by **OFi Technologies LLC** ("**OFiTech**", "**we**", "**us**", or "**our**"), a company 100% owned and controlled by **Open Finance Consortium Inc.**, a Delaware **501(c)(6)** nonprofit corporation ("**OFi Consortium**" or "**OFiCo**").
 
@@ -11,6 +11,13 @@ Data Controller
 ---------------
 
 **OFiTech** is the data controller of your personal information. We are responsible for, and determine how your personal data is processed. If you have any questions about this Privacy Policy or how we handle your personal data, please contact our Data Protection Officer at [\[email protected\]](https://opencollective.com/cdn-cgi/l/email-protection).
+
+EU Representative
+-----------------
+
+For individuals located in the European Union, OFi Technologies LLC ("OFiTech") has designated the following representative in the Union under Article 27 GDPR for matters related to the processing of personal data under this Privacy Policy: François Hodierne, [\[email protected\]](https://opencollective.com/cdn-cgi/l/email-protection).
+
+You may contact our EU Representative, in addition to contacting OFiTech directly, on matters related to the processing of your personal data under the GDPR.
 
 Collection of Information
 -------------------------
@@ -186,3 +193,4 @@ If you have any questions about this Privacy Policy, or to exercise your rights 
 *   Email: [\[email protected\]](https://opencollective.com/cdn-cgi/l/email-protection)
 *   Mail: OFi Technologies LLC, 440 N Barranca Ave #3489, Covina, CA 91723, USA
 *   Data Protection Officer: Benjamin Piouffle, [\[email protected\]](https://opencollective.com/cdn-cgi/l/email-protection)
+*   EU Representative: François Hodierne, [\[email protected\]](https://opencollective.com/cdn-cgi/l/email-protection)
