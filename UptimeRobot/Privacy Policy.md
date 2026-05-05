@@ -1,7 +1,7 @@
 Privacy policy.
 ===============
 
-UptimeRobot (a service by UptimeRobot s. r. o.) operates several websites including [uptimerobot.com](https://uptimerobot.com/), [uptimerobot.com/api/](http://uptimerobot.com/api/) and [uptimerobot.com/blog/](https://blog.uptimerobot.com/). It is UptimeRobot's policy to respect your privacy regarding any information we may collect while operating our websites.
+UptimeRobot (a service by UptimeRobot s. r. o.) operates several websites including [uptimerobot.com](https://uptimerobot.com/), [uptimerobot.com/api/](http://uptimerobot.com/api/) and [uptimerobot.com/blog/](https://uptimerobot.com/blog/). It is UptimeRobot's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 What This Policy Covers
 -----------------------
@@ -195,5 +195,3 @@ When making material changes to this Privacy Policy, we will provide advance not
 *   _July 1, 2016:_ Updated the company name to reflect the change.
 *   _May 20, 2014:_ Updated various typos.
 *   _Nov 14, 2014:_ Added "payment processors used".
-
-This "Privacy Policy" is based on the "Creative Commons" licensed policy by [WordPress](https://wordpress.com/).
