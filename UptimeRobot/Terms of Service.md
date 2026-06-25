@@ -1,7 +1,7 @@
 Terms of service.
 =================
 
-The following terms and conditions govern all use of the UptimeRobot products (Web App and iOS/Android mobile apps) and all content, services and products available at or through the website or mobile apps. The products are owned and operated by UptimeRobot s. r. o. ("UptimeRobot" -a trademark of the company-). The products are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation [UptimeRobot's Privacy Policy](https://uptimerobot.com/privacy/)) and procedures that may be published from time to time on this Site by UptimeRobot (collectively, the "Agreement").
+The following terms and conditions govern all use of the UptimeRobot products (Web App and iOS/Android mobile apps) and all content, services and products available at or through the website or mobile apps. The products are owned and operated by UptimeRobot s. r. o. ("UptimeRobot" -a trademark of the company-). The products are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation [UptimeRobot's Privacy Policy](https://uptimerobot.com/privacy/)) and procedures that may be published from time to time on this Site by UptimeRobot (collectively, the "Agreement").
 
 Please read this Agreement carefully before accessing or using the products. By accessing or using any part of the products, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access the products or use any services. If these terms and conditions are considered an offer by UptimeRobot, acceptance is expressly limited to these terms.
 
@@ -14,162 +14,234 @@ If any of these Terms and Conditions are rendered invalid or void, the other Ter
 Content of Terms
 ----------------
 
-1.  [Your UptimeRobot Account and Site](https://uptimerobot.com/terms/#your-ur-acc-and-site)
-2.  [Responsibility of Contributors](https://uptimerobot.com/terms/#responsibility-of-contributors)
-3.  [Services Provided](https://uptimerobot.com/terms/#services-provided)
-4.  [Refund Policy](https://uptimerobot.com/terms/#payment-and-renewal)
-5.  [Delivery Policy](https://uptimerobot.com/terms/#delivery-policy)
-6.  [Intellectual Property](https://uptimerobot.com/terms/#intellectual-property)
-7.  [Advertisements](https://uptimerobot.com/terms/#advertisements)
-8.  [Changes](https://uptimerobot.com/terms/#changes)
-9.  [Termination](https://uptimerobot.com/terms/#termination)
-10.  [Disclaimer of Warranties](https://uptimerobot.com/terms/#disclaimer-of-warranties)
-11.  [Limitation of Liability](https://uptimerobot.com/terms/#limitation-of-Liability)
-12.  [General Representation and Warranty](https://uptimerobot.com/terms/#general-representation-and-warranty)
-13.  [Indemnification](https://uptimerobot.com/terms/#indemnification)
-14.  [No Resale or Redistribution of Service](https://uptimerobot.com/terms/#no-resale-or-redistribution-of-service)
-15.  [Affiliate program](https://uptimerobot.com/terms/#affiliate)
-16.  [Referral program](https://uptimerobot.com/terms/#referral-program)
-17.  [Contacting UptimeRobot](https://uptimerobot.com/terms/#contacting-uptimerobot)
-18.  [Data Processing Agreement](https://uptimerobot.com/terms/#dpa)
-19.  [Miscellaneous](https://uptimerobot.com/terms/#miscellaneous)
+1.  [Your UptimeRobot Account and Site](#your-ur-acc-and-site)
+2.  [Responsibility of Contributors](#responsibility-of-contributors)
+3.  [Services Provided](#services-provided)
+4.  [Refund Policy](#payment-and-renewal)
+5.  [Delivery Policy](#delivery-policy)
+6.  [Intellectual Property](#intellectual-property)
+7.  [Advertisements](#advertisements)
+8.  [Changes](#changes)
+9.  [Termination](#termination)
+10.  [Disclaimer of Warranties](#disclaimer-of-warranties)
+11.  [Limitation of Liability](#limitation-of-Liability)
+12.  [General Representation and Warranty](#general-representation-and-warranty)
+13.  [Indemnification](#indemnification)
+14.  [No Resale or Redistribution of Service](#no-resale-or-redistribution-of-service)
+15.  [Affiliate program](#affiliate)
+16.  [Referral program](#referral-program)
+17.  [Contacting UptimeRobot](#contacting-uptimerobot)
+18.  [Data Processing Agreement](#dpa)
+19.  [Miscellaneous](#miscellaneous)
 
-1.  **Your UptimeRobot Account and Site.** If you have an account on the products, you are responsible for maintaining the security of your account (e-mail used, password, or API keys) and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the account. You must not using UptimeRobot services in a misleading or unlawful manner, including in a manner intended to trade on the name or reputation of others, and UptimeRobot may change or remove any content that it considers inappropriate or unlawful, or otherwise likely to cause UptimeRobot liability. You must immediately notify UptimeRobot of any unauthorized uses of your account or any other breaches of security. UptimeRobot will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions.
-2.  **Responsibility of Contributors.** By using the products, you are entirely responsible for:
-    
-    *   providing valid user data (e-mail, name, etc.);
-    *   not using the Website for any illegal or abusive activity;
-    *   securing any e-mail, password or api keys of your account;
-    *   only having a single account;
-    
-    UptimeRobot has the right (though not the obligation) to, in UptimeRobot's sole discretion (i) refuse or remove any content (monitors) that, in UptimeRobot's reasonable opinion, violates any UptimeRobot policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the products to any individual or entity for any reason, in UptimeRobot's sole discretion. UptimeRobot will have no obligation to provide a refund of any amounts previously paid.
-    
-3.  **Services Provided.**  
-    UptimeRobot automatically checks the monitors defined by you in user-defined intervals. And, once a downtime is detected, it can notify the "user-defined contacts" with various methods (like e-mail, SMS, mobile push messages, etc.). The monitoring methods include:
-    
-    *   HTTP(s)/Website & endpoint monitoring
-    *   Keyword monitoring (checking the existence or non-existence of a given keyword on a web page)
-    *   Ping monitoring
-    *   Port monitoring
-    *   Heartbeat monitoring (cron-job monitoring, you send requests to UptimeRobot and we check if they arrive on time)
-    *   API monitoring
-    *   Multi-location monitoring
-    *   Response time monitoring
-    *   SSL monitoring
-    *   Domain monitoring
-    *   DNS monitoring
-    *   Status pages (showcase your uptime to your customers)
-    
-    An optional paid plans with faster checking of monitors (typically 1-minute) and/or the ability to check more than 10, 50 or more monitors and SMS message / voice call credits (for getting SMS and / or voice call notifications) can be purchased.
-    
-    Paid plans based on the plan tier may include a specific number of status pages defined in the pricing and may be using a unique UptimeRobot URL may include and/or an option of using a custom domain protected with an SSL certificate issued by Let’s Encrypt or ZeroSSL. Free plan includes 1 status page with a unique UptimeRobot URL only.
-    
-    **UptimeRobot is available for any use, including commercial and business use.** Use of UptimeRobot is also subject to our Fair Use Policy, available at [uptimerobot.com/terms-fair-use](https://uptimerobot.com/terms-fair-use/), which describes operational expectations for all plans and is incorporated by reference into these Terms.
-    
-    *   **Sponsored Subscriptions for Non-Profit and Open Source Initiatives**  
-        UptimeRobot is committed to supporting non-profit organizations, charitable initiatives, and open-source projects by offering sponsored subscriptions that provide access to premium features. These sponsored subscriptions are designed to help eligible organizations benefit from monitoring solutions without incurring costs. If you represent a non-profit, charity, or open-source project and wish to apply for UptimeRobot's sponsored subscription program, please contact our support team for more information on eligibility and application or visit this [page](https://uptimerobot.com/sponsorship/).
-4.  **Refund Policy.**
-    *   **General Terms.**  
-        Optional paid services such as extra monitors, extra seats, shorter monitor intervals, or extra SMS message / voice call credits are available on the products (any such service is considered an “Upgrade”). By selecting an Upgrade you agree to pay UptimeRobot the monthly or annual subscription fees indicated for that service. Payments will be charged on a pre-paid basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated. In the case of standalone SMS message / voice call credit packages, there is a one-time pre-paid payment with the possibility of auto-refill to trigger when your credit balance gets low. For any plan upgrade, the payment method that you provided will be charged or credited the new prorated amount for the current payment period upon your request. You will be requested to pay the rate for the upgrade for the period from the date of the upgrade to the end of your current billing cycle. After successful confirmation of purchase, you will receive access to your new plan within a few minutes (depending on the speed of our payment processor). The new rate will apply to your next billing cycle. A downgrade in a plan will be scheduled for your usual renewal date, meaning your current plan will remain active until the end of your currently prepaid period. The new rate for your plan will apply and be charged on your next billing cycle. As an exception, if you downgrade your plan within 24 hours of expiration, the new plan will become active within a few minutes, without any proration applied. If the new plan does not fit the limits of your account resources (e.g., monitors and/or seats, etc.) we reserve the right to deny a downgrade of your plan, or to suspend resources that do not fit the limit. In such cases you will be informed before this happens. UptimeRobot reserves the right to change the payment terms and fees.
-    *   **Automatic Renewal.**  
-        Unless you notify UptimeRobot before the end of the applicable subscription period that you want to cancel an Upgrade, your Upgrade subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Upgrades can be canceled at any time in the My Settings section of your site's dashboard.
-    *   **Refunds and Cancellation.**  
-        You have the right to withdraw from the Agreement (including any Upgrade) without giving any reason within fourteen (14) calendar days after entering into the Agreement or Upgrade (the “Withdrawal Period”). The right of withdrawal shall not apply if you have commenced the use of paid Services or Upgrades with your explicit consent before the expiry of the Withdrawal Period. Upon withdrawal, UptimeRobot shall reimburse all payments received from you, without undue delay and no later than fourteen (14) calendar days from the day on which we are informed of the withdrawal.  
-          
-        You may terminate your subscription to an Upgrade at any time, in which case you will not be charged for any future subscription renewal periods (though your current prepaid period will continue until its end). However, any subscription fees you have paid in advance will not be refunded outside of the Withdrawal Period. For special cases or material breaches by UptimeRobot, refunds or service credits for paid but unused Services may be granted at our sole discretion. Please contact support@uptimerobot.com for assistance.
-5.  **Delivery Policy.** Upon receipt of your order, the services will be performed to you in accordance with the terms applicable to the services that you purchased. The nature of the services you purchased and the date of your purchase may impact the timing of the performance of the services. The services will be deemed to be successfully delivered to you upon the performance of the services.
-6.  **Intellectual Property.** Intellectual Property. This Agreement does not transfer from UptimeRobot to you any UptimeRobot or third party intellectual property, and all right, title and interest in and to such property will remain (as between the parties) solely with UptimeRobot. UptimeRobot, the UptimeRobot logo, and all other trademarks, service marks, graphics and logos used in connection with UptimeRobot, or the products are trademarks or registered trademarks of UptimeRobot or UptimeRobot's licensors. Other trademarks, service marks, graphics and logos used in connection with the products may be the trademarks of other third parties. Your use of the products grants you no right or license to reproduce or otherwise use any UptimeRobot or third-party trademarks.
-7.  **Advertisements.** UptimeRobot reserves the right to display advertisements on your account.
-8.  **Changes.** UptimeRobot may update these terms or any related terms from time to time. We'll provide advance notice of material changes through the website, in-app alerts, email (for active users), or other reasonable methods. Changes will also be documented in the Changelog at the end of these Terms of Service. If you do not agree to the updated terms, you may stop using the Services before they take effect. By continuing to use or access our products after the effective date, you agree to the updated terms.
-9.  **Termination.** UptimeRobot may terminate your access to all or any part of the products at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your Uptimerobot account (if you have one), you may simply discontinue using the products. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
-10.  **Disclaimer of Warranties.** The products are provided "as they are". UptimeRobot and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither UptimeRobot nor its suppliers and licensors make any warranty that the products will be error-free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or services through, the products at your own discretion and risk.
-11.  **Limitation of Liability.** In no event will UptimeRobot, or its suppliers or licensors, be liable with respect to any subject matter of this agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed the fees paid by you to UptimeRobot under this agreement during the twelve (12) month period prior to the cause of action. UptimeRobot shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
-12.  **General Representation and Warranty.** You represent and warrant that (i) your use of the products will be in strict accordance with the UptimeRobot Privacy Policy, with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental areas, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from Malta or the country in which you reside) and (ii) your use of the products will not infringe or misappropriate the intellectual property rights of any third party.
-13.  **Indemnification.** You agree to indemnify and hold harmless UptimeRobot, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys' fees, arising out of your use of the products, including but not limited to your violation of this Agreement.
-14.  **No Resale or Redistribution of Service.** Except as expressly authorized by UptimeRobot, you agree not to reproduce, duplicate, copy, sell, trade, resell, modify, or create derivative works of any portion of the use of the products, or access to the products or the products code.  
-       
-     In particular, UptimeRobot data, status pages, alerts, and API responses may not be repackaged, white-labeled, or offered to third parties as a standalone or rebranded monitoring service, except under a separately negotiated commercial agreement.  
-       
-     It is possible to buy any of the products for another account. Billing details and invoices will be stored under the upgraded account.  
-       
-     If you do not comply with this, or UptimeRobot has reasonable grounds to suspect that you do not comply with this, UptimeRobot has the right to suspend or terminate your subscription and refuse any and all current or future use of the service (or any portion thereof). In this case, you are not eligible for any refund.
-15.  **Affiliate Program.** As an authorized affiliate partner (Affiliate) of UptimeRobot, you agree to abide by the terms and conditions contained in this Agreement.
-     
-     Commissions will be paid once a month. The payout can be requested only upon reaching the minimum payout threshold. UptimeRobot has the right to postpone the payout until at least 2 different users are referred and upgraded to any of the paid plans.
-     
-     The commissions are paid out through PayPal only. If the minimal threshold is not reached and/or the affiliate partner does not have a PayPal account, UptimeRobot will not pay out the commissions.
-     
-     The Affiliate and UptimeRobot are in agreement that for every payout UptimeRobot will issue a self-raised invoice for the commission paid to the Affiliate.
-     
-     Payments will only be sent for transactions that have been successfully completed. Transactions that result in chargebacks or refunds will not be paid out.
-     
-     In addition to the foregoing, UptimeRobot reserves the right to terminate any Affiliate account at any time, for any violations of affiliate rules mentioned in the Affiliate section of your account of this Agreement or no reason.
-     
-     UptimeRobot will not be liable for indirect or accidental damages (loss of revenue, commissions) due to affiliate tracking failures, loss of database files, or any results of intents of harm to the Program and/or to our website(s).
-     
-     We do not make any expressed or implied warranties with respect to the Program and/or the memberships or products sold by UptimeRobot. We make no claim that the operation of the Program and/or our website(s) will be error-free and we will not be liable for any interruptions or errors.
-     
-     Users coming from email SPAM (unsolicited emails) will not be counted and may lead to the termination of your affiliate account.
-     
-16.  **Referral Program.** As a participant in UptimeRobot’s Referral Program, you can earn exclusive merchandise by referring your friends to UptimeRobot. By joining the Referral Program, you agree to the following terms:  
-       
-     **1\. Rewards and Conditions**
-     
-     *   Rewards are granted only when referred users successfully sign up for any of the paid plans.
-     *   The reward you receive depends on the number of successful referrals and is based on the current rewards and requirements listed on our website. Please refer to the website for the most up-to-date information currently applied.
-     *   Merchandise availability is subject to our providers and may vary by region. While we aim to cover most countries, there may be some locations where shipping is not possible. We reserve the right to limit availability based on these constraints.
-     
-     **2\. Prohibited Activities**
-     
-     To keep the program fair, the following activities are not allowed:
-     
-     *   Coupon sites (Websites primarily focused on listing discount codes and promotional offers)
-     *   PPC advertising with a direct link leading to any UptimeRobot website (including all tools and landing pages)
-     *   Using any UptimeRobot brand, logo, or tool name (including misspelled versions) in PPC advertising, domains, subdomains, or social media profiles
-     *   Using misleading or incorrect information (e.g., non-existent discounts, unauthorized offers)
-     *   Using discount coupons or referral links that are not assigned to you
-     *   The so-called 'self-referrals' (creating another account using your own referral link)
-     *   Referrals coming from email SPAM (unsolicited emails)
-     
-     **3\. Program Integrity\*\***
-     
-     *   UptimeRobot reserves the right to disqualify referrals and terminate accounts that violate these terms or engage in fraudulent behavior.
-     *   Violations of these rules may result in the forfeiture of rewards or termination from the program.
-     
-     **4\. No Financial Obligation\*\***
-     *   Rewards are non-monetary, and there are no cash equivalents.
-17.  **Contacting UptimeRobot.** UptimeRobot may be contacted by email at support@uptimerobot.com. By contacting UptimeRobot, the client grants UptimeRobot a worldwide, non-exclusive perpetual right to any ideas, information, designs or other material contained in any communication, except when the client has obtained prior written agreement from the UptimeRobot board. The client agrees not to pass to UptimeRobot any commercially sensitive information and data about their own operations. The client accepts that information sent to UptimeRobot will not under any circumstance be considered subject to any form of a non-disclosure agreement, except when the client has obtained prior written consent from the UptimeRobot board.  
-       
-     All parties take into consideration that email is not a secure, guaranteed medium of communication. Emails should only be regarded as received by UptimeRobot if the client receives a manually created response.  
-       
-     With the exception of the above points, all discussions over email are deemed to be of informal nature, and should only be taken as binding when indicated as such by the UptimeRobot board.  
-       
-     Any suggestions, mention or reference of any alteration to past, present or future contractual terms by UptimeRobot should be taken purely as speculative until such time that the client is in possession of written confirmation by the UptimeRobot board.
-18.  **Data Processing Agreement.** UptimeRobot processes personal data in compliance with the EU General Data Protection Regulation (GDPR) and applicable Slovak and EU laws. A separate [Data Processing Agreement (“DPA”)](https://uptimerobot.com/dpa/) will be available to all users who qualify as data controllers and process personal data via UptimeRobot’s Services. The DPA forms an integral part of these Terms and will be accessible upon request.  
-       
-     The Service is not directed at persons under sixteen (16) years of age, and we do not knowingly collect personal data from such individuals. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us.
-19.  **Miscellaneous.** These Terms shall be governed by and construed in accordance with the laws of the Slovak Republic, subject to the application of directly applicable EU regulations.  
-       
-     All disputes arising out of or relating to these Terms will be subject to the exclusive jurisdiction of the District Court of Bratislava I, with appeals to the Regional Court of Bratislava and the Supreme Court of the Slovak Republic. This applies regardless of the domicile of the parties, pursuant to Article 25(1) of EU Regulation No 1215/2012 (Brussels Ia).
+**1\. Your UptimeRobot Account and Site.**
+------------------------------------------
+
+If you have an account on the products, you are responsible for maintaining the security of your account (e-mail used, password, or API keys) and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the account. You must not using UptimeRobot services in a misleading or unlawful manner, including in a manner intended to trade on the name or reputation of others, and UptimeRobot may change or remove any content that it considers inappropriate or unlawful, or otherwise likely to cause UptimeRobot liability. You must immediately notify UptimeRobot of any unauthorized uses of your account or any other breaches of security. UptimeRobot will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions.
+
+**2\. Responsibility of Contributors.**
+---------------------------------------
+
+By using the products, you are entirely responsible for:
+
+*   providing valid user data (e-mail, name, etc.);
+*   not using the Website for any illegal or abusive activity;
+*   securing any e-mail, password or api keys of your account;
+*   only having a single account;
+
+UptimeRobot has the right (though not the obligation) to, in UptimeRobot's sole discretion (i) refuse or remove any content (monitors) that, in UptimeRobot's reasonable opinion, violates any UptimeRobot policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the products to any individual or entity for any reason, in UptimeRobot's sole discretion. UptimeRobot will have no obligation to provide a refund of any amounts previously paid.
+
+**3\. Services Provided.**
+--------------------------
+
+UptimeRobot automatically checks the monitors defined by you in user-defined intervals. And, once a downtime is detected, it can notify the "user-defined contacts" with various methods (like e-mail, SMS, mobile push messages, etc.). The monitoring methods include:
+
+*   HTTP(s)/Website & endpoint monitoring
+*   Keyword monitoring (checking the existence or non-existence of a given keyword on a web page)
+*   Ping monitoring
+*   Port monitoring
+*   Heartbeat monitoring (cron-job monitoring, you send requests to UptimeRobot and we check if they arrive on time)
+*   API monitoring
+*   Multi-location monitoring
+*   Response time monitoring
+*   SSL monitoring
+*   Domain monitoring
+*   DNS monitoring
+*   Status pages (showcase your uptime to your customers)
+
+An optional paid plans with faster checking of monitors (typically 1-minute) and/or the ability to check more than 10, 50 or more monitors and SMS message / voice call credits (for getting SMS and / or voice call notifications) can be purchased.
+
+Paid plans based on the plan tier may include a specific number of status pages defined in the pricing and may be using a unique UptimeRobot URL may include and/or an option of using a custom domain protected with an SSL certificate issued by Let’s Encrypt or ZeroSSL. Free plan includes 1 status page with a unique UptimeRobot URL only.
+
+**UptimeRobot is available for any use, including commercial and business use.** Use of UptimeRobot is also subject to our Fair Use Policy, available at [uptimerobot.com/terms-fair-use](https://uptimerobot.com/terms-fair-use/), which describes operational expectations for all plans and is incorporated by reference into these Terms.
+
+*   **Sponsored Subscriptions for Non-Profit and Open Source Initiatives**  
+    UptimeRobot is committed to supporting non-profit organizations, charitable initiatives, and open-source projects by offering sponsored subscriptions that provide access to premium features. These sponsored subscriptions are designed to help eligible organizations benefit from monitoring solutions without incurring costs. If you represent a non-profit, charity, or open-source project and wish to apply for UptimeRobot's sponsored subscription program, please contact our support team for more information on eligibility and application or visit this [page](https://uptimerobot.com/sponsorship/).
+
+**4\. Refund Policy.**
+----------------------
+
+*   **General Terms.**  
+    Optional paid services such as extra monitors, extra seats, shorter monitor intervals, or extra SMS message / voice call credits are available on the products (any such service is considered an “Upgrade”). By selecting an Upgrade you agree to pay UptimeRobot the monthly or annual subscription fees indicated for that service. Payments will be charged on a pre-paid basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated. In the case of standalone SMS message / voice call credit packages, there is a one-time pre-paid payment with the possibility of auto-refill to trigger when your credit balance gets low. For any plan upgrade, the payment method that you provided will be charged or credited the new prorated amount for the current payment period upon your request. You will be requested to pay the rate for the upgrade for the period from the date of the upgrade to the end of your current billing cycle. After successful confirmation of purchase, you will receive access to your new plan within a few minutes (depending on the speed of our payment processor). The new rate will apply to your next billing cycle. A downgrade in a plan will be scheduled for your usual renewal date, meaning your current plan will remain active until the end of your currently prepaid period. The new rate for your plan will apply and be charged on your next billing cycle. As an exception, if you downgrade your plan within 24 hours of expiration, the new plan will become active within a few minutes, without any proration applied. If the new plan does not fit the limits of your account resources (e.g., monitors and/or seats, etc.) we reserve the right to deny a downgrade of your plan, or to suspend resources that do not fit the limit. In such cases you will be informed before this happens. UptimeRobot reserves the right to change the payment terms and fees.
+*   **Automatic Renewal.**  
+    Unless you notify UptimeRobot before the end of the applicable subscription period that you want to cancel an Upgrade, your Upgrade subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Upgrades can be canceled at any time in the My Settings section of your site's dashboard.
+*   **Refunds and Cancellation.**  
+    You have the right to withdraw from the Agreement (including any Upgrade) without giving any reason within fourteen (14) calendar days after entering into the Agreement or Upgrade (the “Withdrawal Period”). The right of withdrawal shall not apply if you have commenced the use of paid Services or Upgrades with your explicit consent before the expiry of the Withdrawal Period. Upon withdrawal, UptimeRobot shall reimburse all payments received from you, without undue delay and no later than fourteen (14) calendar days from the day on which we are informed of the withdrawal.  
+      
+    You may terminate your subscription to an Upgrade at any time, in which case you will not be charged for any future subscription renewal periods (though your current prepaid period will continue until its end). However, any subscription fees you have paid in advance will not be refunded outside of the Withdrawal Period. For special cases or material breaches by UptimeRobot, refunds or service credits for paid but unused Services may be granted at our sole discretion. Please contact support@uptimerobot.com for assistance.
+
+**5\. Delivery Policy.**
+------------------------
+
+Upon receipt of your order, the services will be performed to you in accordance with the terms applicable to the services that you purchased. The nature of the services you purchased and the date of your purchase may impact the timing of the performance of the services. The services will be deemed to be successfully delivered to you upon the performance of the services.
+
+**6\. Intellectual Property.**
+------------------------------
+
+Intellectual Property. This Agreement does not transfer from UptimeRobot to you any UptimeRobot or third party intellectual property, and all right, title and interest in and to such property will remain (as between the parties) solely with UptimeRobot. UptimeRobot, the UptimeRobot logo, and all other trademarks, service marks, graphics and logos used in connection with UptimeRobot, or the products are trademarks or registered trademarks of UptimeRobot or UptimeRobot's licensors. Other trademarks, service marks, graphics and logos used in connection with the products may be the trademarks of other third parties. Your use of the products grants you no right or license to reproduce or otherwise use any UptimeRobot or third-party trademarks.
+
+**7\. Advertisements.**
+-----------------------
+
+UptimeRobot reserves the right to display advertisements on your account.
+
+**8\. Changes.**
+----------------
+
+UptimeRobot may update these terms or any related terms from time to time. We'll provide advance notice of material changes through the website, in-app alerts, email (for active users), or other reasonable methods. Changes will also be documented in the Changelog at the end of these Terms of Service. If you do not agree to the updated terms, you may stop using the Services before they take effect. By continuing to use or access our products after the effective date, you agree to the updated terms.
+
+**9\. Termination.**
+--------------------
+
+UptimeRobot may terminate your access to all or any part of the products at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your Uptimerobot account (if you have one), you may simply discontinue using the products. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+
+**10\. Disclaimer of Warranties**
+---------------------------------
+
+The products are provided "as they are". UptimeRobot and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither UptimeRobot nor its suppliers and licensors make any warranty that the products will be error-free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or services through, the products at your own discretion and risk.
+
+**11\. Limitation of Liability.**
+---------------------------------
+
+In no event will UptimeRobot, or its suppliers or licensors, be liable with respect to any subject matter of this agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed the fees paid by you to UptimeRobot under this agreement during the twelve (12) month period prior to the cause of action. UptimeRobot shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
+
+**12\. General Representation and Warranty.**
+---------------------------------------------
+
+You represent and warrant that (i) your use of the products will be in strict accordance with the UptimeRobot Privacy Policy, with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental areas, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from Malta or the country in which you reside) and (ii) your use of the products will not infringe or misappropriate the intellectual property rights of any third party.
+
+**13\. Indemnification.**
+-------------------------
+
+You agree to indemnify and hold harmless UptimeRobot, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys' fees, arising out of your use of the products, including but not limited to your violation of this Agreement.
+
+**14\. No Resale or Redistribution of Service.**
+------------------------------------------------
+
+Except as expressly authorized by UptimeRobot, you agree not to reproduce, duplicate, copy, sell, trade, resell, modify, or create derivative works of any portion of the use of the products, or access to the products or the products code.  
+  
+In particular, UptimeRobot data, status pages, alerts, and API responses may not be repackaged, white-labeled, or offered to third parties as a standalone or rebranded monitoring service, except under a separately negotiated commercial agreement.  
+  
+It is possible to buy any of the products for another account. Billing details and invoices will be stored under the upgraded account.  
+  
+If you do not comply with this, or UptimeRobot has reasonable grounds to suspect that you do not comply with this, UptimeRobot has the right to suspend or terminate your subscription and refuse any and all current or future use of the service (or any portion thereof). In this case, you are not eligible for any refund.
+
+**15\. Affiliate Program.**
+---------------------------
+
+As an authorized affiliate partner (Affiliate) of UptimeRobot, you agree to abide by the terms and conditions contained in this Agreement.
+
+Commissions will be paid once a month. The payout can be requested only upon reaching the minimum payout threshold. UptimeRobot has the right to postpone the payout until at least 2 different users are referred and upgraded to any of the paid plans.
+
+The commissions are paid out through PayPal only. If the minimal threshold is not reached and/or the affiliate partner does not have a PayPal account, UptimeRobot will not pay out the commissions.
+
+The Affiliate and UptimeRobot are in agreement that for every payout UptimeRobot will issue a self-raised invoice for the commission paid to the Affiliate.
+
+Payments will only be sent for transactions that have been successfully completed. Transactions that result in chargebacks or refunds will not be paid out.
+
+In addition to the foregoing, UptimeRobot reserves the right to terminate any Affiliate account at any time, for any violations of affiliate rules mentioned in the Affiliate section of your account of this Agreement or no reason.
+
+UptimeRobot will not be liable for indirect or accidental damages (loss of revenue, commissions) due to affiliate tracking failures, loss of database files, or any results of intents of harm to the Program and/or to our website(s).
+
+We do not make any expressed or implied warranties with respect to the Program and/or the memberships or products sold by UptimeRobot. We make no claim that the operation of the Program and/or our website(s) will be error-free and we will not be liable for any interruptions or errors.
+
+Users coming from email SPAM (unsolicited emails) will not be counted and may lead to the termination of your affiliate account.
+
+**16\. Referral Program.**
+--------------------------
+
+As a participant in UptimeRobot’s Referral Program, you can earn exclusive merchandise by referring your friends to UptimeRobot. By joining the Referral Program, you agree to the following terms:  
+  
+**1\. Rewards and Conditions**
+
+*   Rewards are granted only when referred users successfully sign up for any of the paid plans.
+*   The reward you receive depends on the number of successful referrals and is based on the current rewards and requirements listed on our website. Please refer to the website for the most up-to-date information currently applied.
+*   Merchandise availability is subject to our providers and may vary by region. While we aim to cover most countries, there may be some locations where shipping is not possible. We reserve the right to limit availability based on these constraints.
+
+**2\. Prohibited Activities**
+
+To keep the program fair, the following activities are not allowed:
+
+*   Coupon sites (Websites primarily focused on listing discount codes and promotional offers)
+*   PPC advertising with a direct link leading to any UptimeRobot website (including all tools and landing pages)
+*   Using any UptimeRobot brand, logo, or tool name (including misspelled versions) in PPC advertising, domains, subdomains, or social media profiles
+*   Using misleading or incorrect information (e.g., non-existent discounts, unauthorized offers)
+*   Using discount coupons or referral links that are not assigned to you
+*   The so-called 'self-referrals' (creating another account using your own referral link)
+*   Referrals coming from email SPAM (unsolicited emails)
+
+**3\. Program Integrity\*\***
+
+*   UptimeRobot reserves the right to disqualify referrals and terminate accounts that violate these terms or engage in fraudulent behavior.
+*   Violations of these rules may result in the forfeiture of rewards or termination from the program.
+
+**4\. No Financial Obligation\*\***
+
+*   Rewards are non-monetary, and there are no cash equivalents.
+
+**17\. Contacting UptimeRobot.**
+--------------------------------
+
+UptimeRobot may be contacted by email at support@uptimerobot.com. By contacting UptimeRobot, the client grants UptimeRobot a worldwide, non-exclusive perpetual right to any ideas, information, designs or other material contained in any communication, except when the client has obtained prior written agreement from the UptimeRobot board. The client agrees not to pass to UptimeRobot any commercially sensitive information and data about their own operations. The client accepts that information sent to UptimeRobot will not under any circumstance be considered subject to any form of a non-disclosure agreement, except when the client has obtained prior written consent from the UptimeRobot board.  
+  
+All parties take into consideration that email is not a secure, guaranteed medium of communication. Emails should only be regarded as received by UptimeRobot if the client receives a manually created response.  
+  
+With the exception of the above points, all discussions over email are deemed to be of informal nature, and should only be taken as binding when indicated as such by the UptimeRobot board.  
+  
+Any suggestions, mention or reference of any alteration to past, present or future contractual terms by UptimeRobot should be taken purely as speculative until such time that the client is in possession of written confirmation by the UptimeRobot board.
+
+**18\. Data Processing Agreement.**
+-----------------------------------
+
+UptimeRobot processes personal data in compliance with the EU General Data Protection Regulation (GDPR) and applicable Slovak and EU laws. A separate [Data Processing Agreement (“DPA”)](https://uptimerobot.com/dpa/) will be available to all users who qualify as data controllers and process personal data via UptimeRobot’s Services. The DPA forms an integral part of these Terms and will be accessible upon request.  
+  
+The Service is not directed at persons under sixteen (16) years of age, and we do not knowingly collect personal data from such individuals. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us.
+
+**19\. Miscellaneous.**
+-----------------------
+
+These Terms shall be governed by and construed in accordance with the laws of the Slovak Republic, subject to the application of directly applicable EU regulations.  
+  
+All disputes arising out of or relating to these Terms will be subject to the exclusive jurisdiction of the District Court of Bratislava I, with appeals to the Regional Court of Bratislava and the Supreme Court of the Slovak Republic. This applies regardless of the domicile of the parties, pursuant to Article 25(1) of EU Regulation No 1215/2012 (Brussels Ia).
 
 **Changelog:**
 
-*   _May 26, 2026:_ Added Fair Use Policy (at /terms-fair-use/); updated Services Provided and No Resale or Redistribution of Service.
-*   _September 23, 2025:_ Added Data Processing Agreement. Updated Terms of Service.
-*   _May 23, 2024:_ Updated UptimeRobot company details.
-*   _August 22, 2023:_ Updated Affiliate Program.
-*   _May 31, 2023:_ Updated Services Provided, Payment and Renewal, Delivery Policy, Minimal Hardware and Software Requirements, Advertisements.
-*   _December 19, 2022:_ Updated Payment and Renewal.
-*   _June 6, 2022:_ Added Terms of Affiliate Program
-*   _July 14, 2021:_ Added “Resale or Redistribution of Service” and “Contacting UptimeRobot”
-*   _April 26, 2021:_ Added status pages.
-*   _February 25, 2021:_ Changed refund policy.
-*   _January 22, 2021:_ Added product definition and updated mentions.
-*   _September 15, 2017:_ Updated the jurisdiction as Malta.
-*   _June 12, 2017:_ Removed Paylane from the list of payment processors.
-*   _July 1, 2016:_ Updated the company name to reflect the change.
-*   _May 20, 2014:_ Updated various typos.
-*   _November 14, 2014:_ Added "services provided", "purchase process" and "payment processors used".
+*   _May 26, 2026:_ Added Fair Use Policy (at /terms-fair-use/); updated Services Provided and No Resale or Redistribution of Service.
+*   _September 23, 2025:_ Added Data Processing Agreement. Updated Terms of Service.
+*   _May 23, 2024:_ Updated UptimeRobot company details.
+*   _August 22, 2023:_ Updated Affiliate Program.
+*   _May 31, 2023:_ Updated Services Provided, Payment and Renewal, Delivery Policy, Minimal Hardware and Software Requirements, Advertisements.
+*   _December 19, 2022:_ Updated Payment and Renewal.
+*   _June 6, 2022:_ Added Terms of Affiliate Program
+*   _July 14, 2021:_ Added “Resale or Redistribution of Service” and “Contacting UptimeRobot”
+*   _April 26, 2021:_ Added status pages.
+*   _February 25, 2021:_ Changed refund policy.
+*   _January 22, 2021:_ Added product definition and updated mentions.
+*   _September 15, 2017:_ Updated the jurisdiction as Malta.
+*   _June 12, 2017:_ Removed Paylane from the list of payment processors.
+*   _July 1, 2016:_ Updated the company name to reflect the change.
+*   _May 20, 2014:_ Updated various typos.
+*   _November 14, 2014:_ Added "services provided", "purchase process" and "payment processors used".
 
 **This service is provided by:**
 
