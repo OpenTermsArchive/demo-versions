@@ -1,7 +1,7 @@
 Terms of service.
 =================
 
-The following terms and conditions govern all use of the UptimeRobot products (Web App and iOS/Android mobile apps) and all content, services and products available at or through the website or mobile apps. The products are owned and operated by UptimeRobot s. r. o. ("UptimeRobot" -a trademark of the company-). The products are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation [UptimeRobot's Privacy Policy](https://uptimerobot.com/privacy/)) and procedures that may be published from time to time on this Site by UptimeRobot (collectively, the "Agreement").
+The following terms and conditions govern all use of the UptimeRobot products (Web App and iOS/Android mobile apps) and all content, services and products available at or through the website or mobile apps. The products are owned and operated by UptimeRobot s. r. o. ("UptimeRobot" -a trademark of the company-). The products are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation [UptimeRobot's Privacy Policy](https://uptimerobot.com/privacy/)) and procedures that may be published from time to time on this Site by UptimeRobot (collectively, the "Agreement").
 
 Please read this Agreement carefully before accessing or using the products. By accessing or using any part of the products, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access the products or use any services. If these terms and conditions are considered an offer by UptimeRobot, acceptance is expressly limited to these terms.
 
@@ -73,10 +73,10 @@ An optional paid plans with faster checking of monitors (typically 1-minute) and
 
 Paid plans based on the plan tier may include a specific number of status pages defined in the pricing and may be using a unique UptimeRobot URL may include and/or an option of using a custom domain protected with an SSL certificate issued by Let’s Encrypt or ZeroSSL. Free plan includes 1 status page with a unique UptimeRobot URL only.
 
-**UptimeRobot is available for any use, including commercial and business use.** Use of UptimeRobot is also subject to our Fair Use Policy, available at [uptimerobot.com/terms-fair-use](https://uptimerobot.com/terms-fair-use/), which describes operational expectations for all plans and is incorporated by reference into these Terms.
+**UptimeRobot is available for any use, including commercial and business use.** Use of UptimeRobot is also subject to our Fair Use Policy, available at [uptimerobot.com/terms-fair-use](https://uptimerobot.com/terms-fair-use/), which describes operational expectations for all plans and is incorporated by reference into these Terms.
 
 *   **Sponsored Subscriptions for Non-Profit and Open Source Initiatives**  
-    UptimeRobot is committed to supporting non-profit organizations, charitable initiatives, and open-source projects by offering sponsored subscriptions that provide access to premium features. These sponsored subscriptions are designed to help eligible organizations benefit from monitoring solutions without incurring costs. If you represent a non-profit, charity, or open-source project and wish to apply for UptimeRobot's sponsored subscription program, please contact our support team for more information on eligibility and application or visit this [page](https://uptimerobot.com/sponsorship/).
+    UptimeRobot is committed to supporting non-profit organizations, charitable initiatives, and open-source projects by offering sponsored subscriptions that provide access to premium features. These sponsored subscriptions are designed to help eligible organizations benefit from monitoring solutions without incurring costs. If you represent a non-profit, charity, or open-source project and wish to apply for UptimeRobot's sponsored subscription program, please contact our support team for more information on eligibility and application or visit this [page](https://uptimerobot.com/sponsorship/).
 
 **4\. Refund Policy.**
 ----------------------
@@ -213,7 +213,7 @@ Any suggestions, mention or reference of any alteration to past, present or futu
 **18\. Data Processing Agreement.**
 -----------------------------------
 
-UptimeRobot processes personal data in compliance with the EU General Data Protection Regulation (GDPR) and applicable Slovak and EU laws. A separate [Data Processing Agreement (“DPA”)](https://uptimerobot.com/dpa/) will be available to all users who qualify as data controllers and process personal data via UptimeRobot’s Services. The DPA forms an integral part of these Terms and will be accessible upon request.  
+UptimeRobot processes personal data in compliance with the EU General Data Protection Regulation (GDPR) and applicable Slovak and EU laws. A separate [Data Processing Agreement (“DPA”)](https://uptimerobot.com/dpa/) will be available to all users who qualify as data controllers and process personal data via UptimeRobot’s Services. The DPA forms an integral part of these Terms and will be accessible upon request.  
   
 The Service is not directed at persons under sixteen (16) years of age, and we do not knowingly collect personal data from such individuals. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us.
 
@@ -226,22 +226,22 @@ All disputes arising out of or relating to these Terms will be subject to the ex
 
 **Changelog:**
 
-*   _May 26, 2026:_ Added Fair Use Policy (at /terms-fair-use/); updated Services Provided and No Resale or Redistribution of Service.
-*   _September 23, 2025:_ Added Data Processing Agreement. Updated Terms of Service.
-*   _May 23, 2024:_ Updated UptimeRobot company details.
-*   _August 22, 2023:_ Updated Affiliate Program.
-*   _May 31, 2023:_ Updated Services Provided, Payment and Renewal, Delivery Policy, Minimal Hardware and Software Requirements, Advertisements.
-*   _December 19, 2022:_ Updated Payment and Renewal.
-*   _June 6, 2022:_ Added Terms of Affiliate Program
-*   _July 14, 2021:_ Added “Resale or Redistribution of Service” and “Contacting UptimeRobot”
-*   _April 26, 2021:_ Added status pages.
-*   _February 25, 2021:_ Changed refund policy.
-*   _January 22, 2021:_ Added product definition and updated mentions.
-*   _September 15, 2017:_ Updated the jurisdiction as Malta.
-*   _June 12, 2017:_ Removed Paylane from the list of payment processors.
-*   _July 1, 2016:_ Updated the company name to reflect the change.
-*   _May 20, 2014:_ Updated various typos.
-*   _November 14, 2014:_ Added "services provided", "purchase process" and "payment processors used".
+*   _May 26, 2026:_ Added Fair Use Policy (at /terms-fair-use/); updated Services Provided and No Resale or Redistribution of Service.
+*   _September 23, 2025:_ Added Data Processing Agreement. Updated Terms of Service.
+*   _May 23, 2024:_ Updated UptimeRobot company details.
+*   _August 22, 2023:_ Updated Affiliate Program.
+*   _May 31, 2023:_ Updated Services Provided, Payment and Renewal, Delivery Policy, Minimal Hardware and Software Requirements, Advertisements.
+*   _December 19, 2022:_ Updated Payment and Renewal.
+*   _June 6, 2022:_ Added Terms of Affiliate Program
+*   _July 14, 2021:_ Added “Resale or Redistribution of Service” and “Contacting UptimeRobot”
+*   _April 26, 2021:_ Added status pages.
+*   _February 25, 2021:_ Changed refund policy.
+*   _January 22, 2021:_ Added product definition and updated mentions.
+*   _September 15, 2017:_ Updated the jurisdiction as Malta.
+*   _June 12, 2017:_ Removed Paylane from the list of payment processors.
+*   _July 1, 2016:_ Updated the company name to reflect the change.
+*   _May 20, 2014:_ Updated various typos.
+*   _November 14, 2014:_ Added "services provided", "purchase process" and "payment processors used".
 
 **This service is provided by:**
 
