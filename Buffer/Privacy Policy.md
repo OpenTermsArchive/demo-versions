@@ -310,6 +310,8 @@ We use cookies and similar technologies for several purposes:
 | Functional | Remember preferences and settings to create a more personalised experience. | Language preference, saved drafts | Yes |
 | Advertisement | Deliver relevant ads, measure campaign effectiveness, and avoid showing the same ad repeatedly. | Meta Pixel, Google Ads | Yes |
 
+With your consent, we also use email tracking pixels to measure whether you open our emails and click links inside them, to assess and improve the performance of our email campaigns. You can disable those pixels at any time by clicking the “Manage your tracking preferences” link in the footer of any email we send to you.
+
 #### Information We Collect Automatically
 
 We may automatically record certain information from your device using cookies, clear gifs, and similar technologies. This can include:
@@ -373,7 +375,7 @@ This Cookie Policy applies to **buffer.com and all related subdomains** operated
 
 We may update this policy if we change the way we use cookies and similar technologies. When we do, we’ll post the updated version here and update the “last updated” date below.
 
-**Last updated**: October 7, 2025
+**Last updated**: July 23, 2026
 
 #### Contact Us
 
