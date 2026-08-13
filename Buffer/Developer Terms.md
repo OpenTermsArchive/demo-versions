@@ -1,7 +1,7 @@
 API Terms
 ---------
 
-_Last updated: September 23, 2020_
+_Last updated: August 5, 2026_
 
 THESE API TERMS (“TERMS”) IS A LEGALLY BINDING AGREEMENT BETWEEN BUFFER, INC. (“BUFFER”) AND THE LEGAL ENTITY YOU REPRESENT (“YOU”). IF YOU USE OR ARE ENGAGING IN ACTIVITIES UNDER THESE TERMS FOR A BUSINESS OR CORPORATE ENTITY (“COMPANY”), WHETHER AS AN EMPLOYEE OR CONTRACTOR, THE TERM “YOU” INCLUDES, AND THE TERMS AND CONDITIONS HEREOF ARE BINDING ON, BOTH YOU AS AN INDIVIDUAL AS WELL AS SUCH COMPANY. IN ADDITION, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO BIND SUCH COMPANY, AND THAT SUCH COMPANY HAS AUTHORIZED YOU TO ACCEPT THE TERMS OF THESE TERMS ON ITS BEHALF.
 
@@ -101,6 +101,10 @@ You agree to report promptly to Buffer all bugs You or Your Contractor encounter
     You understand that the API may collect and send certain data to Buffer (hereinafter “Data”). You understand and agree that You, and entities working on Your behalf, will not alter, surveil, intercept, inhibit, direct, or otherwise interfere with the transmission of Data to Buffer and its Affiliates in connection with the API. You further agree that You and those working on Your behalf, will not directly access any Data that is stored in a private data store by the API Materials on an end user’s device, apart from any access provided by Buffer. You agree that Buffer may use the Data: (a) to provide the API and the Buffer Service to You and Your end users, (b) to improve, optimize, troubleshoot, and create bug fixes for the API, and (c) for Buffer’s business purposes, including without limitation (i) facilitating the provision of new products, updates, enhancements and other services, (ii) improving the Buffer Service, and (iii) providing new products, services or technologies to You, Your end users, and customers of Buffer and its Affiliates. Buffer will make commercially reasonable efforts to cooperate with You so that you can satisfy any obligations you may have to Your end users under applicable data privacy laws concerning access, correction and deletion rights.
 2.  **7.2 Privacy Compliance**  
     You represent and warrant that the use and distribution of each Application and Your Privacy Policy(ies) comply, at a minimum, with all applicable laws, rules or regulations, in each jurisdiction in which the Application is distributed (collectively, “Laws and Regulations”) including, without limitation, ensuring that the Application does not violate or infringe any privacy, data protection, information security or other similar legal rights of Application end users. You will be solely responsible for ensuring Your compliance with the Application’s Privacy Policy, and that use of the Application, and the terms related to use of the Application by end users, do not conflict with and are not inconsistent with applicable Laws and Regulations.
+3.  **7.3 Security Practices**  
+    You must use industry standard security practices when developing and operating any integration with the API, and implement security measures reasonably adequate to preserve the confidentiality, integrity, and security of end user data.
+4.  **7.4 Breach Notification**  
+    You must notify Buffer without undue delay and in any event within 24 hours if You become aware of a data breach affecting Buffer API keys, client IDs, client secrets, or data relating to Buffer users who have authorized Your integration. You are responsible for any legally-required notifications to Your users and any joint users You share with Buffer, in coordination with Buffer where appropriate.
 
 ### 8\. Confidentiality
 
@@ -119,46 +123,90 @@ You agree to indemnify and hold harmless Buffer, its Affiliates and licensors, a
 
 ### 11\. Use of Name and Trademarks
 
-The API Materials may embed the trade names, trademarks, service marks, logos domain names and other distinctive brand features of Buffer, its Affiliates or third parties (“Marks”). When such attribution is embedded, such as a “powered by” logo included in the user interface or when otherwise required by Buffer, You must, and You will ensure that Your Contractors, display it as provided or otherwise described in the API Materials or other instructions provided by Buffer and may not delete or in any manner alter these Marks. Except as set forth in the preceding sentence, You will not, and will ensure that Your Contractors do not, display or make any use of Buffer or its Affiliates’ names, marks or logos in connection with the Application without the prior written approval of Buffer. All permitted uses of the Marks must be in accordance with Buffer’s trademark usage guidelines (as may be updated from time to time by Buffer), available from Buffer upon written request. You will not, and You will ensure that Your Contractors do not, display the Marks in any manner that falsely expresses or implies that the Application or any content transmitted via the Application is sponsored or endorsed by Buffer. Buffer has the right to monitor the quality of all of Your Applications and has the right to take all action that it deems necessary to ensure that Your activities under and uses of the Marks are consistent with the reputation for quality and prestige of products bearing and service performed under the Marks.
+The API Materials may embed the trade names, trademarks, service marks, logos domain names and other distinctive brand features of Buffer, its Affiliates or third parties (“Marks”). When such attribution is embedded, such as a “powered by” logo included in the user interface or when otherwise required by Buffer, You must, and You will ensure that Your Contractors, display it as provided or otherwise described in the API Materials or other instructions provided by Buffer and may not delete or in any manner alter these Marks. Except as set forth in the preceding sentence and in Section 12 (Buffer Marks and Brand Usage), You will not, and will ensure that Your Contractors do not, display or make any use of Buffer or its Affiliates’ names, marks or logos in connection with the Application without the prior written approval of Buffer. All permitted uses of the Marks must be in accordance with Buffer’s trademark usage guidelines (as may be updated from time to time by Buffer), available from Buffer upon written request. You will not, and You will ensure that Your Contractors do not, display the Marks in any manner that falsely expresses or implies that the Application or any content transmitted via the Application is sponsored or endorsed by Buffer. Buffer has the right to monitor the quality of all of Your Applications and has the right to take all action that it deems necessary to ensure that Your activities under and uses of the Marks are consistent with the reputation for quality and prestige of products bearing and service performed under the Marks.
 
-### 12\. Term and Termination; Survival
+### 12\. Buffer Marks and Brand Usage
 
-1.  **12.1 Term and Termination**  
+1.  **12.1** Buffer trademarks, tradenames, logos, and service marks (collectively, “Buffer Marks”) are owned exclusively by Buffer and may only be used as expressly permitted in these Terms or in any separate written agreement with Buffer.
+2.  **12.2** You must not use Buffer Marks, or any confusingly similar marks, in a way that suggests Your product, integration, website, or organization is:
+
+*   an official Buffer product or service;
+*   owned, operated, or managed by Buffer; or
+*   part of Buffer, Buffer’s group of companies, or an “official” or “certified” partner program, unless Buffer has expressly designated You as such in writing.
+
+1.  **12.3** You must not:
+
+*   incorporate “Buffer” or any Buffer Marks in Your company name, product name, integration name, domain name, social media handle, or app listing title;
+*   use phrases such as “official Buffer integration,” “Buffer-approved,” “Buffer-certified,” or similar terms that imply endorsement, sponsorship, or close affiliation, unless Buffer has provided prior written consent;
+*   alter, distort, or modify any Buffer logo, including colors, proportions, or fonts, or combine Buffer Marks with Your own marks in a single composite logo.
+
+1.  **12.4** Where You reference Buffer in marketing or within Your product, You must do so in a way that is factual, accurate, and not misleading, for example: “This tool integrates with Buffer” or “Connect your Buffer account to schedule posts.”
+2.  **12.5** All goodwill arising from Your use of Buffer Marks will inure exclusively to Buffer. You agree not to challenge Buffer’s ownership of Buffer Marks or attempt to register any confusingly similar marks.
+
+### 13\. Attribution and “Built on Buffer” Language
+
+1.  **13.1** You may describe Your integration or product as “integrates with Buffer,” “uses the Buffer API,” or “built on Buffer’s API,” provided that such description does not imply that Buffer is responsible for Your product or that Your product is part of Buffer’s own service.
+2.  **13.2** If Buffer provides official “Powered by Buffer” or similar badges or logos, You may only use these assets in accordance with any additional usage guidelines provided by Buffer and only for so long as Buffer permits. Buffer may revoke this permission at any time at its sole discretion.
+
+### 14\. Prohibited Marketing and Communications
+
+1.  **14.1** In connection with any use of the API or Buffer Marks, You must not:
+
+*   engage in fax, broadcast, telemarketing, or other offline marketing methods that reference Buffer;
+*   use malware, spyware, or other aggressive or deceptive advertising or marketing methods in any dealings relating to Buffer;
+*   make any false, misleading, or disparaging representations or statements about Buffer or Buffer’s products and services;
+*   solicit users to discontinue, cancel, or materially reduce their use of Buffer;
+*   bid on Buffer’s brand terms, trademarks, or any variations, misspellings, or combinations thereof (including “Buffer” and any Buffer product names) in any search engine or advertising platform, whether as keywords, in ad copy, or in display URLs.
+
+1.  **14.2** You must not copy, resemble, or mirror the look and feel of Buffer’s websites or apps, imitate Buffer’s user interface in a way that may cause confusion, or otherwise misrepresent Your affiliation with Buffer. This includes:
+
+*   using similar layouts, icons, or color schemes in a way that could cause users to mistake Your product for Buffer;
+*   presenting login flows, dashboards, or emails that could mislead users into believing they are interacting directly with Buffer.
+
+### 15\. Compliance, Inspection, and Enforcement
+
+1.  **15.1** If Buffer determines that Your integration or marketing is in violation of these Terms or misuses Buffer Marks, Buffer may, in its sole discretion, require You to modify Your integration or materials, revoke Your permission to use Buffer Marks, limit or suspend Your access to the API, or terminate Your API access and/or applicable agreements.
+
+### 16\. Term and Termination; Survival
+
+1.  **16.1 Term and Termination**  
     These Terms will be effective upon acceptance by You and will continue until terminated as provided herein (the “Term”). You may terminate the Agreement at any time by deleting and destroying all copies of the API Materials, API Performance Data and all related information in You or Your Contractor’s possession or control. The licenses granted to You by Buffer will terminate immediately and automatically, with or without notice, if You or Your Contractor fail to comply with any provision hereof. Additionally, Buffer may at any time terminate these Terms, either with or without cause, upon notice to You.
-2.  **12.2 Survival**  
-    Sections 1 (Defined Terms); 2.7 (Retention of Rights); 5.7 (Feedback); 7 (Privacy; Data Collection and Use); 8 (Confidentiality); 9 (Disclaimer of Warranties; Limitation of Liability); 10 (Indemnity); 12.1 (Term and Termination); 12.2 (Survival); and 13 (Governing Law; Venue) through 19 (Miscellaneous) will survive the termination of these Terms.
+2.  **16.2 Survival**  
+    Sections 1 (Defined Terms); 2.7 (Retention of Rights); 5.7 (Feedback); 7 (Privacy; Data Collection and Use); 8 (Confidentiality); 9 (Disclaimer of Warranties; Limitation of Liability); 10 (Indemnity); 16.1 (Term and Termination); 16.2 (Survival); and 17 (Governing Law; Venue) through 23 (Miscellaneous) will survive the termination of these Terms.
 
-### 13\. Governing Law; Venue
+### 17\. Governing Law; Venue
 
-1.  These Terms is governed by and interpreted in accordance with the laws of the state of California, United States of America, without giving effect to its conflict of laws provisions. Except as set forth in Section 15 (Dispute Resolution), any claim, lawsuit or proceeding arising out of or related to these Terms must be brought exclusively in the state or federal courts of San Francisco, California and You hereby consent to the exclusive jurisdiction and venue of such courts.
+1.  These Terms is governed by and interpreted in accordance with the laws of the state of California, United States of America, without giving effect to its conflict of laws provisions. Except as set forth in Section 19 (Arbitration), any claim, lawsuit or proceeding arising out of or related to these Terms must be brought exclusively in the state or federal courts of San Francisco, California and You hereby consent to the exclusive jurisdiction and venue of such courts.
 
-### 14\. Severability
+### 18\. Severability
 
 If any provision (or portion of a provision) of these Terms will be held to be illegal, invalid, or unenforceable, the legality, enforceability or validity of the remaining provisions (or portion of the applicable provision) of these Terms will not be affected.
 
-### 15\. Arbitration
+### 19\. Arbitration
 
-Except for the right of either party to apply to a court of competent jurisdiction for a temporary restraining order, a preliminary injunction, or other equitable relief to preserve the status quo or prevent irreparable harm, any dispute as to the interpretation, enforcement, breach, or termination of these Terms will be settled by binding arbitration in San Francisco, California, under the Rules of the American Arbitration Association by three arbitrators appointed in accordance with the Rules. If there is a conflict between the Rules and the terms of these Terms, the terms of these Terms will prevail. All other disputes will be resolved by a court specified in Section 13. Judgment upon the award rendered by the arbitrators may be entered in any court of competent jurisdiction. The prevailing party will be entitled to receive from the other party its attorneys’ fees and costs incurred in connection with any arbitration.
+Except for the right of either party to apply to a court of competent jurisdiction for a temporary restraining order, a preliminary injunction, or other equitable relief to preserve the status quo or prevent irreparable harm, any dispute as to the interpretation, enforcement, breach, or termination of these Terms will be settled by binding arbitration in San Francisco, California, under the Rules of the American Arbitration Association by three arbitrators appointed in accordance with the Rules. If there is a conflict between the Rules and the terms of these Terms, the terms of these Terms will prevail. All other disputes will be resolved by a court specified in Section 17. Judgment upon the award rendered by the arbitrators may be entered in any court of competent jurisdiction. The prevailing party will be entitled to receive from the other party its attorneys’ fees and costs incurred in connection with any arbitration.
 
-### 16\. Export Compliance Assurances
+### 20\. Export Compliance Assurances
 
 You acknowledge that all API Material obtained from Buffer and Your Applications are subject to the US government export control and economic sanctions. You represent and warrant that You, Your Contractors and Your Affiliates will not directly or indirectly export, re-export, transfer or release any Application to any destination, person, entity or end use prohibited or restricted under US laws without respective prior US government authorization to the extent required by applicable regulation.
 
-### 17\. Compliance with Laws
+### 21\. Compliance with Laws
 
 You will, and will ensure that Your Contractors will, abide by all applicable local, state, national, and foreign laws, treaties and regulations in connection with Application(s) and Your use of the API.
 
-### 18\. No Third Party Rights
+### 22\. No Third Party Rights
 
-The parties agree and confirm their mutual intention that neither these Terms nor any of the terms of these Terms will be enforceable by any person or entity not a direct party to it. Notwithstanding that any term of these Terms may be or may become enforceable by a person who is not a party to these Terms, the terms and conditions of these Terms may be modified or amended, or these Terms may be suspended, cancelled, rescinded or terminated by the parties as provided in Section 19.3 without the consent of any such third party.
+The parties agree and confirm their mutual intention that neither these Terms nor any of the terms of these Terms will be enforceable by any person or entity not a direct party to it. Notwithstanding that any term of these Terms may be or may become enforceable by a person who is not a party to these Terms, the terms and conditions of these Terms may be modified or amended, or these Terms may be suspended, cancelled, rescinded or terminated by the parties as provided in Section 23.3 without the consent of any such third party.
 
-### 19\. Miscellaneous.
+### 23\. Miscellaneous.
 
-1.  **19.1 Entire Agreement**  
+1.  **23.1 Entire Agreement**  
     These Terms constitute the entire and exclusive agreement between Buffer and You with respect to the API, the API Materials, and the Buffer Service and supersedes all prior agreements (whether written or oral) and other communications between Buffer and You with respect to the API Materials.
-2.  **19.2 No Assignment**  
+2.  **23.2 No Assignment**  
     You will not, and will ensure that Your Contractors do not, delegate, transfer or assign these Terms or any of the rights, duties or obligations hereunder (whether voluntarily, by operation of law, or otherwise) without Buffer’s prior written consent. Any attempted assignment, transfer or other delegation without such consent will be null and void and will constitute a material breach. Buffer may assign this agreement at any time without obtaining Your consent. Subject to the foregoing, these Terms will be binding upon and inure to the benefit of the parties and their permitted successors, transferees, and assignees.
-3.  **19.3 Amendement**  
+3.  **23.3 Amendment**  
     Except to the extent that Buffer is expressly precluded by applicable law, Buffer further reserves the right to make changes to these Terms by providing You with reasonable notice of the changes (e.g., which notice may be sent to You via e-mail at the address You provided during registration or posted on the Buffer developer website). You will be responsible for reviewing and becoming familiar with any and all such changes. If You or Your Contractors continue to use any portion of the API and Buffer Service after notice of any changes has been provided or posted, You will be deemed to have accepted any and all such changes.
-4.  **19.4 Interpretation**  
+4.  **23.4 Interpretation**  
     The headings appearing at the beginning of the Articles and Sections contained in these Terms have been inserted for identification and reference purposes only and must not be used to construe or interpret these Terms. Whenever required by context, a singular number will include the plural, the plural number will include the singular, and the gender of any pronoun will include all genders. Any reference to any agreement, document, or instrument will mean such agreement, document, or instrument as amended or modified and in effect from time to time in accordance with the terms thereof. Whenever the words “include,” “includes,” or “including” are used in these Terms, they will be deemed to be followed by the words “without limitation.” Whenever the words “hereunder,” “hereof,” “hereto,” and words of similar import are used in these Terms, they will be deemed references to these Terms as a whole and not to any particular Article, Section or other provision hereof. The word “or” is used in the inclusive sense of “and/or.” The terms “or,” “any” and “either” are not exclusive.
+5.  **23.5 Relationship and Independence**  
+    Use of the API and Buffer Marks does not create any relationship of agency, franchise, fiduciary duty, partnership, or employment between You and Buffer. You must not represent Yourself to customers or the public as being part of Buffer or having authority to make commitments on Buffer’s behalf.
