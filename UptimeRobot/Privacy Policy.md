@@ -145,21 +145,46 @@ UptimeRobot uses the following products/services (which are all [GDPR compliant]
 *   **Limestone Networks:** for sending monitoring requests and storing data.
 *   **Amazon Web Services:** for sending monitoring requests and storing data.
 *   **Digital Ocean:** for sending monitoring requests and storing data.
+*   **Hetzner:** for hosting monitoring infrastructure, API services and status pages.
+*   **Cloudflare:** for DNS, content delivery, security and storing screenshots and backups.
+*   **Vercel:** for hosting the customer dashboard.
+*   **ClickHouse Cloud:** for storing request and notification delivery logs.
+*   **ScyllaDB:** for storing incident records and activity logs.
+*   **Unleash:** for feature flags and experiments.
 *   **Plivo:** for sending SMS and voice notifications.
+*   **OneSignal:** for sending mobile push notifications.
+*   **Expo:** for building and updating the mobile applications.
 *   **Stripe:** for credit card payments.
 *   **2Checkout:** for credit card payments.
 *   **PayPal:** for PayPal and credit card payments.
+*   **Airwallex:** for bank transfer and wire payments.
 *   **Google Tag Manager:** for serving 3rd party scripts.
 *   **Google Analytics (Universal Analytics and/or Google Analytics 4):** for analyzing the browsing behavior of our users and visitors.
 *   **Google BigQuery:** for business analysis and analyzing the browsing behavior of our users and visitors.
 *   **Google Fonts:** for loading a custom fonts.
 *   **Sentry:** for logging errors and bugs.
+*   **Linear:** for issue tracking and product development.
 *   **User.com:** for CRM service, behavioral messages and updates about product.
 *   **Intercom.com:** for CRM service, customer support, online chat, behavioral messages and updates about product.
+*   **Pipedrive:** for CRM, managing sales and customer accounts.
+*   **Calendly:** for scheduling meetings and demos.
+*   **n8n Cloud:** for automating enquiry routing and internal processes.
+*   **EmailListVerify:** for validating email addresses from enquiries.
+*   **CloudTalk:** for sales and support phone calls.
+*   **TL;DV:** for recording and transcribing meetings.
 *   **Sendgrid.com:** for sending emails, e.g. account related, occasional deal offers, etc.
-*   **Google Ads:** for auto-pausing Google ads during downtimes and for ads targeting.
-*   **Facebook Ads:** for auto-pausing Facebook ads during downtimes.
-*   **Miscrosoft Clarity:** To capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for app and web site optimization and advertising. For more information about how Microsoft collects and uses your data, visit the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement).
+*   **Amazon SES:** for sending product and marketing emails.
+*   **Google Ads:** for advertising conversion tracking, remarketing and auto-pausing ads during downtimes.
+*   **Facebook Ads:** for advertising conversion tracking, remarketing and auto-pausing ads during downtimes.
+*   **Criteo:** for advertising retargeting.
+*   **Microsoft Advertising:** for advertising conversion tracking.
+*   **Reditus:** for affiliate and referral tracking.
+*   **Microsoft Clarity:** To capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for app and web site optimization and advertising. For more information about how Microsoft collects and uses your data, visit the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement).
+*   **Retool:** for internal account and subscription management.
+*   **Google Workspace:** for business email, documents and file storage.
+*   **Slack:** for internal communication and support escalation.
+*   **Notion:** for internal knowledge management and contract records.
+*   **Loom:** for screen recordings and video messages.
 
 “Subscribe to updates” feature on Status pages
 ----------------------------------------------
@@ -181,6 +206,7 @@ When making material changes to this Privacy Policy, we will provide advance not
 
 **Change log:**
 
+*   _August 19, 2026:_ Added 25 sub-processors and updated the Google Ads and Facebook Ads entries.
 *   _April 16, 2026:_ Replaced Rollbar with Sentry in the list of sub-processors.
 *   _January 8, 2026:_ Added Intercom to the list of sub-processors.
 *   _September 23, 2025:_ Added Data Processing Agreement and updated Privacy Policy Changes.
