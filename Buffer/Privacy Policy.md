@@ -429,10 +429,11 @@ A: We primarily collect data when a user signs-up for Buffer services. Read more
 | Google | Data storage and processing | USA |
 | HelloNext | Customer feedback | India |
 | HelpScout | Customer support services | USA |
+| Hex | Data analytics and business intelligence | USA |
 | Hightouch | Customer support services | USA |
 | MongoDB Atlas | Cloud database | USA |
 | Microsoft, MS Clarity | Behavior analytics tool | USA |
-| Mixpanel | Business intelligence software used to analyze service usage | USA |
+| Mixpanel | Data analytics and business intelligence | USA |
 | OpenAI | Artificial Intelligence | USA |
 | Pendo | Analytics | USA |
 | Pusher Ltd | Push notifications | United Kingdom |
