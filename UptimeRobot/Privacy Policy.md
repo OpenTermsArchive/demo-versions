@@ -207,6 +207,7 @@ When making material changes to this Privacy Policy, we will provide advance not
 
 **Change log:**
 
+*   _August 28, 2026:_ Added Cookiebot to the list of sub-processors.
 *   _August 19, 2026:_ Added 25 sub-processors and updated the Google Ads and Facebook Ads entries.
 *   _April 16, 2026:_ Replaced Rollbar with Sentry in the list of sub-processors.
 *   _January 8, 2026:_ Added Intercom to the list of sub-processors.
