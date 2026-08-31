@@ -158,6 +158,7 @@ UptimeRobot uses the following products/services (which are all [GDPR compliant]
 *   **2Checkout:** for credit card payments.
 *   **PayPal:** for PayPal and credit card payments.
 *   **Airwallex:** for bank transfer and wire payments.
+*   **Cookiebot:** for cookie consent management and consent logging.
 *   **Google Tag Manager:** for serving 3rd party scripts.
 *   **Google Analytics (Universal Analytics and/or Google Analytics 4):** for analyzing the browsing behavior of our users and visitors.
 *   **Google BigQuery:** for business analysis and analyzing the browsing behavior of our users and visitors.
