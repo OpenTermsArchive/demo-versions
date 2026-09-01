@@ -223,3 +223,6 @@ When making material changes to this Privacy Policy, we will provide advance not
 *   _July 1, 2016:_ Updated the company name to reflect the change.
 *   _May 20, 2014:_ Updated various typos.
 *   _Nov 14, 2014:_ Added "payment processors used".
+
+Cookies
+-------
