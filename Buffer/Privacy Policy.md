@@ -419,6 +419,7 @@ A: We primarily collect data when a user signs-up for Buffer services. Read more
 | --- | --- | --- |
 | Amazon Web Services (AWS), Inc | Cloud (hosting) service | USA |
 | Anthropic | Artificial Intelligence | USA |
+| Attio | Customer relationship management platform | United Kingdom |
 | Brainfish | Software service | Australia |
 | Bugsnag | Error monitoring service | USA |
 | ChartMogul | Analytics platform | Germany |
