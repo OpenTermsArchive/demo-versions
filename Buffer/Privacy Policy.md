@@ -421,22 +421,21 @@ A: We primarily collect data when a user signs-up for Buffer services. Read more
 | Anthropic | Artificial Intelligence | USA |
 | Attio | Customer relationship management platform | United Kingdom |
 | Brainfish | Software service | Australia |
-| Bugsnag | Error monitoring service | USA |
 | ChartMogul | Analytics platform | Germany |
 | Cloudflare, Inc | Deployment and delivery | USA |
 | Customer.io | Email communication | USA |
 | Datadog | Performance, infrastructure and network monitoring | USA |
+| FeatureOS | Customer feedback | India |
 | Fivetran | Automated data movement platform | USA |
 | Google | Data storage and processing | USA |
-| HelloNext | Customer feedback | India |
 | HelpScout | Customer support services | USA |
 | Hex | Data analytics and business intelligence | USA |
-| Hightouch | Customer support services | USA |
+| Hightouch | Data analytics | USA |
 | MongoDB Atlas | Cloud database | USA |
 | Microsoft, MS Clarity | Behavior analytics tool | USA |
 | Mixpanel | Data analytics and business intelligence | USA |
 | OpenAI | Artificial Intelligence | USA |
-| Pendo | Analytics | USA |
+| Plain | Customer support software | United Kingdom |
 | Pusher Ltd | Push notifications | United Kingdom |
 | Retool | Internal tooling | USA |
 | RevenueCat | Analytics | USA |
