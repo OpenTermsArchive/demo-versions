@@ -425,6 +425,7 @@ A: We primarily collect data when a user signs-up for Buffer services. Read more
 | Cloudflare, Inc | Deployment and delivery | USA |
 | Customer.io | Email communication | USA |
 | Datadog | Performance, infrastructure and network monitoring | USA |
+| Dub | Affiliate link management | USA |
 | FeatureOS | Customer feedback | India |
 | Fivetran | Automated data movement platform | USA |
 | Google | Data storage and processing | USA |
