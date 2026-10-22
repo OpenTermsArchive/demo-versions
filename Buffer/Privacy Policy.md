@@ -441,6 +441,7 @@ A: We primarily collect data when a user signs-up for Buffer services. Read more
 | Retool | Internal tooling | USA |
 | RevenueCat | Analytics | USA |
 | Segment / Twilio | Data infrastructure / messaging | USA |
+| Sentry | Error monitoring service | USA |
 | Stripe, Inc | Payment processing | USA |
 | Xero | Accounting | USA |
 
