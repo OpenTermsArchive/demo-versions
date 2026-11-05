@@ -260,7 +260,7 @@ At any time, you may request your information to be exported and sent to you for
 
 ### Deletion
 
-A user has the right to request that we delete all of their personal data by deleting their Buffer account. [Delete my data](https://account.buffer.com/).
+A user has the right to request that we delete all of their personal data by deleting their Buffer account. [Delete my data](https://publish.buffer.com/settings).
 
 ### Access / Portability
 
