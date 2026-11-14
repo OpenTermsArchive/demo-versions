@@ -539,22 +539,22 @@ United States
 
 If you have any thoughts or questions about this DPFs Policy please [let us know](mailto:hello@buffer.com).
 
-_Last updated: October 5, 2023_
+_Last updated: November 13, 2026_
 
 |     |     |     |
 | --- | --- | --- |Types of data with record description and retention guidelines
 | TYPE OF DATA | RECORD DESCRIPTION | RETENTION GUIDELINE |
 | --- | --- | --- |
-| Customer Data (non-sensitive) | Current customer (free account) | Indefinitely |
-| Customer Data (non-sensitive) | Current customer (paid account) | Indefinitely |
-| Customer Data (non-sensitive) | Current customer (free and paying accounts) | Indefinitely |
+| Customer Data (non-sensitive) | Current customer (free account) | 2 years |
+| Customer Data (non-sensitive) | Current customer (paid account) | 2 years |
+| Customer Data (non-sensitive) | Current customer (free and paying accounts) | 2 years |
 | Customer Data (non-sensitive) | Customer invoice information | For tax and accounting purposes we will retain invoice information for up to 7 years after your last payment. |
 | Customer Data (non-sensitive) | Prospective Customer Data (marketing leads) | 2 years after last interaction with prospective customer. |
 
 Data Retention Notice
 ---------------------
 
-_Last updated: June 6, 2024_
+_Last updated: November 13, 2026_
 
 This policy covers all personal customer data that we hold or have control over. This includes physical personal data such as hard copy documents, contracts, notebooks, letters and invoices. It also includes electronic personal data such as emails, electronic documents, audio and video recordings. In this policy we refer to this information and these records collectively as “data”.
 
@@ -574,6 +574,6 @@ If you become aware of any changes that may affect the periods listed below or i
 
 ### How long we retain information for active customers
 
-When you use our Service you are permitted to upload content to the Service, including social media posts and other content which may include messages, reviews, photos, video, images, data, text, and other types of works (“**User Content**”). We store User Content indefinitely. This includes User Content stored for planning purposes in Buffer (but not published), as well as User Content used in publishing social media posts, generating analytics, and conversations with customers.
+When you use our Service you are permitted to upload content to the Service, including social media posts and other content which may include messages, reviews, photos, video, images, data, text, and other types of works (“**User Content**”). We store User Content for two years. This includes User Content stored for planning purposes in Buffer (but not published), as well as User Content used in publishing social media posts, generating analytics, and conversations with customers.
 
 Please note that when you delete your Buffer account you are deleting User Content from our Service, however, this does not mean that the Content is deleted from your Social Networks. User Content may continue to exist on the Social Networks and you will need to contact the relevant Social Network directly if you want to remove this Content.
